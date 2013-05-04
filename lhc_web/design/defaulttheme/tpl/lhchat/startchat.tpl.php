@@ -1,7 +1,10 @@
-<h1><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chat/startchat','Fill out this form to start a chat');?></h1>
 <?php if (isset($errors)) : ?>
 		<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
 <?php endif; ?>
+
+<?php if ($leaveamessage == false || erLhcoreClassChat::isOnline() === true) : ?>
+
+<h1><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chat/startchat','Fill out this form to start a chat');?></h1>
 
 <form method="post" action="<?php echo erLhcoreClassDesign::baseurl('chat/startchat')?>">
 
@@ -33,3 +36,7 @@
 <input type="hidden" value="<?php echo htmlspecialchars($referer);?>" name="URLRefer"/>
 
 </form>
+<?php else : ?>
+	<h1><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chat/startchat','There is no online operators at the moment, please leave your message')?></h1>
+	<?php include(erLhcoreClassDesign::designtpl('lhchat/offline_form_startchat.tpl.php'));?>
+<?php endif;?>
