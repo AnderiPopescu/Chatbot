@@ -2227,11 +2227,23 @@
         <translation></translation>
     </message>
     <message>
+        <source>Live Support</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Invalid captcha code, please enable Javascript!</source>
         <translation></translation>
     </message>
     <message>
         <source>Maximum 500 characters for message</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Type your message here and hit enter to send...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send</source>
         <translation></translation>
     </message>
     <message>
