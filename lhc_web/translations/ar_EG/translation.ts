@@ -1,4 +1,4 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ar_EG">
 <context>
     <name>user/login</name>
     <message>
@@ -14,8 +14,8 @@
         <translation>كلمة السر</translation>
     </message>
     <message>
-        <source>تذكير كلمة السر</source>
-        <translation>Slaptažodžio priminimas</translation>
+        <source>Password reminder</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Login</source>
@@ -38,6 +38,203 @@
     </message>
 </context>
 <context>
+    <name>abstract/proactivechatinvitation</name>
+    <message>
+        <source>Name for personal purposes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Operator name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Wait message. Visible then users starts chat and is waiting for someone to accept a chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Wait timeout. Time in seconds before timeout message is shown.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show visitor this message then wait timeout passes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If you want pro active chat invitation to work it has to be enabled in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>chat configuration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>also online users tracking has to be</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>enabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language, leave empty for all. E.g lit, rus, ger etc...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Time on site in seconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identifier, for what identifier this message should be shown, leave empty for all</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pageviews</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Matched times</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Message to user</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pro active chat invitations</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>chat/statistic</name>
+    <message>
+        <source>Statistic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total statistic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last 24h statistic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Parameter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total chats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total pending chats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total active chats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total closed chats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chatbox chats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total messages (including visitors, system and operators messages)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total messages (only visitors)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total messages (only system messages)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total messages (only operators)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Operators last 24h statistic, top 100 by chats number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total messages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last activity</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>system/languages</name>
+    <message>
+        <source>Default view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default module</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter module name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter view name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Site access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Languages configuration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Settings updated</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Current site access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>options for</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Theme, separate themes by new line</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>questionary/htmlcode</name>
     <message>
         <source>HTML code</source>
@@ -48,12 +245,12 @@
         <translation>نص الحالة</translation>
     </message>
     <message>
-        <source>Expand widget automatically for new users</source>
-        <translation>وسِّع الودجة تلقائيًا للزوار الجدد</translation>
+        <source>Expand the widget automatically for new users</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Copy code from textarea to page header or footer</source>
-        <translation>انسخ الشفرة من صندوق النص إلى رأس أو تذييل الصفحة</translation>
+        <source>Copy the code from the text area to the page header or footer</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -91,8 +288,8 @@
         <translation>من فضلك أدخل رأيَك!</translation>
     </message>
     <message>
-        <source>Please choose one of the option!</source>
-        <translation>من فضلك اختر واحدًا من الخيارات!</translation>
+        <source>Please choose one of the options!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -106,8 +303,8 @@
         <translation>ألغِ</translation>
     </message>
     <message>
-        <source>Enter new question</source>
-        <translation>اسأل سؤالًا جديدًا</translation>
+        <source>Enter a new question</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New question</source>
@@ -117,8 +314,8 @@
 <context>
     <name>questionary/previewanswer</name>
     <message>
-        <source>Answer preview</source>
-        <translation>Atsakymo peržiūra</translation>
+        <source>Preview the answer</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -140,8 +337,8 @@
         <translation>اعرض</translation>
     </message>
     <message>
-        <source>Delete answer</source>
-        <translation>احذف الإجابة</translation>
+        <source>Delete the answer</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Option name</source>
@@ -171,12 +368,12 @@
         <translation>مقدمة السؤال</translation>
     </message>
     <message>
-        <source>Show question for all URL containing this string E.g /shop/basket</source>
-        <translation>أظهر السؤال لكل الصفحات التي تحتوي في عنوانها النص، مثل: /shop/basket</translation>
+        <source>Show questions for all the URLs containing this string E.g /shop/basket</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Priority, if multiple questions matches location, question with higher priority will be shown</source>
-        <translation>الأولوية، إذا تطابقت عدة أسئلة مكانًا، فإن السؤال ذي الأولوية الأعلى سيظهر</translation>
+        <source>Priority, if multiple questions match a location, the question with the higher priority will be shown</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active</source>
@@ -186,12 +383,12 @@
 <context>
     <name>questionary/edit</name>
     <message>
-        <source>Please enter question!</source>
-        <translation>من فضلك أدخل سؤالًا!</translation>
+        <source>Please enter a question!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Edit question</source>
-        <translation>حرِّر السؤال</translation>
+        <source>Edit the question</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Question</source>
@@ -234,8 +431,8 @@
         <translation>حَرِّر</translation>
     </message>
     <message>
-        <source>Please enter option!</source>
-        <translation>من فضلك أدخل خيارًا!</translation>
+        <source>Please enter an option!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
@@ -254,8 +451,8 @@
         <translation>خيارت التصويت</translation>
     </message>
     <message>
-        <source>If there are no options to choose from to user will be shown text field where he will be able to enter his own answer.</source>
-        <translation>إذا لم تكن هناك خيارات ليختار منها المستخدم، سيظهر صندوقٌ نصي للزائر كي يكتب فيه إجابته الخاصة.</translation>
+        <source>If there are no options to choose from, the user will be shown a text field where he will be able to enter his own answer.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -265,8 +462,8 @@
         <translation>الأسئلة</translation>
     </message>
     <message>
-        <source>الأسئلة</source>
-        <translation>Klausimai</translation>
+        <source>Questions</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Question</source>
@@ -281,8 +478,8 @@
         <translation>الأولوية</translation>
     </message>
     <message>
-        <source>Edit question</source>
-        <translation>حَرِّر السؤال</translation>
+        <source>Edit a question</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete question</source>
@@ -335,12 +532,24 @@
         <translation>فَعِّل/عَطِّل صوت رسائل الزوار الجديدة</translation>
     </message>
     <message>
+        <source>Send chat transcript to your e-mail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change my status to online/offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Enable/Disable sound about new pending chats</source>
         <translation>فَعِّل/عَطِّل صوت طلبات المحادثة الجديدة</translation>
     </message>
     <message>
-        <source>Enable/Disable sound about new messages from operator</source>
-        <translation>فَعِّل/عَطِّل صوت رسائل مقدم الدعم الجديدة</translation>
+        <source>Enable/Disable sound about new messages from the operator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -374,8 +583,8 @@
         <translation>حَرِّر الرسالة الجاهزة</translation>
     </message>
     <message>
-        <source>Please enter canned message</source>
-        <translation>من فضلك أدخل الرسالة اداخلية</translation>
+        <source>Please enter a canned message</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -386,10 +595,21 @@
     </message>
 </context>
 <context>
+    <name>chat/sendchat</name>
+    <message>
+        <source>Enter your e-mail</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>system/buttons</name>
     <message>
         <source>Save</source>
         <translation>احفظ</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update</source>
@@ -457,8 +677,12 @@
 <context>
     <name>user/remindpassword</name>
     <message>
-        <source>Password remind - new password</source>
-        <translation>تذكير كلمة السر - كلمة سر جديدة</translation>
+        <source>Password reminder - new password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hash was not found or was used already</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update</source>
@@ -469,8 +693,8 @@
         <translation>كلمة السر الجديدة:</translation>
     </message>
     <message>
-        <source>New password has been send to your email.</source>
-        <translation>أُرٍْسِلت كلمة السر الجديدة لبريدك الإلكتروني.</translation>
+        <source>New password has been sent to your email.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Identifier</source>
@@ -480,16 +704,16 @@
 <context>
     <name>user/forgotpassword</name>
     <message>
-        <source>Password remind</source>
-        <translation>تذكير كلمة السر</translation>
+        <source>Password reminder</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid e-mail address!</source>
         <translation>عنوان بريد إليكتروني غير صالح!</translation>
     </message>
     <message>
-        <source>Click this link and to You will be send new password</source>
-        <translation>اضغط هذا الرابِط وستُرسل إليك كلمة السر الجديدة</translation>
+        <source>Click this link and You will be sent a new password</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>E-mail</source>
@@ -526,47 +750,99 @@
 <context>
     <name>chat/sendnotice</name>
     <message>
-        <source>Send message to user</source>
-        <translation>أرسِل رسالة للمستخدم</translation>
+        <source>Send a message to the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Message was send to user</source>
-        <translation>أرسِلت الرسالة للمستخدم</translation>
+        <source>Message was sent to the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>If message was already send, this will mark message as not delivered and to user again will be shown chat message.</source>
-        <translation>إذا أُرسِلت الرسالة بالفعل، فستُرقَم الرسالة كأنها لم تصل وستظهر للمستخدم مرة أخرى كرسالة محادثة.</translation>
+        <source>If the message was already sent, this will mark it as not delivered and the user will be shown the chat message again.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Type your message to user</source>
-        <translation>اكتب رسالتك للمستخدم</translation>
+        <source>Type your message to the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Send message</source>
-        <translation>أرسِل الرسالة</translation>
+        <source>Send the message</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>chat/onlineusers</name>
     <message>
-        <source>No one has send any message to user yet</source>
-        <translation>لم يُرسِل أحدٌ أي رسالة للمستخدم بعد</translation>
+        <source>Time on site</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No one has sent a message to the user yet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Marker timeout before it dissapears from map</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>minit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>hour</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show visitors who visited site in the past</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Came from</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>minits</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pageviews</source>
         <translation>استعراض الصفحات</translation>
     </message>
     <message>
+        <source>City</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>last visit</source>
         <translation>آخر زيارة</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>first visit</source>
         <translation>أول زيارة</translation>
     </message>
     <message>
-        <source>has send message to user</source>
-        <translation>أرسَل رسالة إلى المستخدم</translation>
+        <source>has sent a message to the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User is chatting</source>
@@ -577,12 +853,32 @@
         <translation>ليس لدى المستخدم أي محادثة الآن</translation>
     </message>
     <message>
-        <source>User does not have any message from operator</source>
-        <translation>ليس لدى المستخدم أي رسالة من مقدم الدعم</translation>
+        <source>Latitude variable</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>User have not seen message from operator, or message window still open.</source>
-        <translation>لم يَر المستخدم أي رسالة من مقدم الدعم، أو أن نافذة الرسالة ما زالت مفتوحة.</translation>
+        <source>Longitude variable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country name server variable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>City name server variable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User has message from operator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User does not have any messages from the operator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User has not seen a message from the operator, or the message window is still open.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User has seen message from operator.</source>
@@ -669,32 +965,32 @@
         <translation>انظر قوانين استخدام الخدمة</translation>
     </message>
     <message>
-        <source>Country code variable does not exists!</source>
-        <translation>متغير كود الدولة غير موجود!</translation>
+        <source>Country code variable does not exist!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter API key!</source>
-        <translation>من فضلك أدخل مفتاح الواجهة البرمجية API!</translation>
+        <source>Please enter the API key!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter API username!</source>
-        <translation>من فضلك أدخل اسم مستخدم الواجهة البرمجية API!</translation>
+        <source>Please enter the API username!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please choose service provider!</source>
         <translation>من فضلك اختر مزوِّد خدمة!</translation>
     </message>
     <message>
-        <source>Country name variable does not exists!</source>
-        <translation>متغيّر اسم الدولة غير موجود!</translation>
+        <source>Country name variable does not exist!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Country code server variable</source>
         <translation>متغير خادم كود الدولة</translation>
     </message>
     <message>
-        <source>Setting service provider failed, please check that your service provider allows to make requests to remote pages!</source>
-        <translation>فشَل ضبط مزود الخدمة، يُرجَى التأكد من سماح مزود الخدمة طلب صفحات عن بُعد!</translation>
+        <source>Setting service provider failed, please check that your service provider allows you to make requests to remote pages!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User tracking is disabled, enable it at</source>
@@ -716,8 +1012,8 @@
         <translation>فارغ...</translation>
     </message>
     <message>
-        <source>Chats lists</source>
-        <translation>قوائم المحادثات</translation>
+        <source>Chats list</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Closed chats list</source>
@@ -728,8 +1024,8 @@
         <translation>المعلومات</translation>
     </message>
      <message>
-        <source>Open in new window</source>
-        <translation>افتح بنافذة جديدة</translation>
+        <source>Open in a new window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous</source>
@@ -755,8 +1051,8 @@
 <context>
     <name>chat/pendingchats</name>
     <message>
-        <source>Chats lists</source>
-        <translation>قوائم المحادثات</translation>
+        <source>Chats list</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Empty...</source>
@@ -775,8 +1071,8 @@
         <translation>المعلومات</translation>
     </message>
      <message>
-        <source>Open in new window</source>
-        <translation>افتح في نافذةٍ جديدة</translation>
+        <source>Open in a new window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous</source>
@@ -810,8 +1106,8 @@
         <translation>المحادثات الفعالة</translation>
     </message>
     <message>
-        <source>Chats lists</source>
-        <translation>قوائم المحادثات</translation>
+        <source>Chats list</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active chats list</source>
@@ -822,8 +1118,8 @@
         <translation>المعلومات</translation>
     </message>
      <message>
-        <source>Open in new window</source>
-        <translation>افتح بنافذةٍ جديدة</translation>
+        <source>Open in a new window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous</source>
@@ -865,20 +1161,20 @@
         <translation>المحادثات المُحَوَّلة إلى قِسمِك</translation>
     </message>
     <message>
-        <source>Chats transfered to you directly</source>
-        <translation>المحادثات المُحَوَّلة إليك مباشرةً</translation>
+        <source>Chats transferred to you directly</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Questionary</source>
         <translation>الأسئلة</translation>
     </message>
     <message>
-        <source>Transfered to you</source>
-        <translation>المنقولة إليك</translation>
+        <source>Transferred to you</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Transfered to your department</source>
-        <translation>المنقولة إلى قِسمِك</translation>
+        <source>Transferred to your department</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unread messages</source>
@@ -897,8 +1193,12 @@
         <translation>الرئيسيّة</translation>
     </message>
     <message>
-        <source>Chats lists</source>
-        <translation>قوائم المحادثات</translation>
+        <source>Chats list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New chat request</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Closed chats</source>
@@ -929,8 +1229,8 @@
         <translation>المحادثات المعلقة</translation>
     </message>
     <message>
-        <source>Open in new window</source>
-        <translation>افتح بنافذة جديدة</translation>
+        <source>Open in a new window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat rooms</source>
@@ -958,6 +1258,10 @@
     <message>
         <source>Pending chats</source>
         <translation>المحادثات المعلقة</translation>
+    </message>
+    <message>
+        <source>Operators chats</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active chats</source>
@@ -997,6 +1301,10 @@
         <source>Waiting for confirmation</source>
         <translation>بانتظار الموافقة</translation>
     </message>
+    <message>
+        <source>Resume chat</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>user/newgroup</name>
@@ -1013,8 +1321,8 @@
         <translation>احفظ</translation>
     </message>
     <message>
-        <source>Save and assign user</source>
-        <translation>احفَظ وألحِق مستخدمًا</translation>
+        <source>Save and assign the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Groups</source>
@@ -1059,8 +1367,8 @@
         <translation>اسم المستخدم</translation>
     </message>
     <message>
-        <source>User was assigned to group!</source>
-        <translation>أُلْحِق المستخدم بالمجموعة!</translation>
+        <source>User was assigned to the group!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>E-mail</source>
@@ -1086,8 +1394,8 @@
         <translation>حَوِّل المحادثة</translation>
     </message>
     <message>
-        <source>Transfer chat to one of your departments users</source>
-        <translation>حَوِّل المحادثة إلى أحد مستخدمي أقسامك</translation>
+        <source>Transfer a chat to one of your departments users</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Departments</source>
@@ -1102,20 +1410,20 @@
         <translation>كانت المحادثة مُلحَقة بالمستخدم المحدد</translation>
     </message>
     <message>
-        <source>Transfer to user</source>
-        <translation>حوِّل لمستخدم</translation>
+        <source>Transfer to a user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Transfer to department</source>
-        <translation>حوِّل لقسم</translation>
+        <source>Transfer to a department</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Transfer</source>
         <translation>حوِّل</translation>
     </message>
     <message>
-        <source>Logged users</source>
-        <translation>المستخدمين المسجلين</translation>
+        <source>Logged in users</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1128,12 +1436,16 @@
 <context>
     <name>chat/sendmail</name>
     <message>
-        <source>Send mail to user</source>
-        <translation>أرسِل رسالة بريدية للمستخدم</translation>
+        <source>Send mail to the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Mail was send to user</source>
-        <translation>أُرْسِلت الرسالة البريدية إلى المستخدم</translation>
+        <source>Recipient</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mail was sent to the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subject</source>
@@ -1152,16 +1464,16 @@
         <translation>بريد المُرسِل/الراسِل</translation>
     </message>
     <message>
-        <source>Type your message to user</source>
-        <translation>اكتب رسالةً للمستخدم</translation>
+        <source>Type your message to the user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Send mail</source>
-        <translation>أرسِل الرسالة</translation>
+        <source>Send the mail</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>User did not entered his e-mail!</source>
-        <translation>لم يُدخِل المستخدم بريده الإلكتروني!</translation>
+        <source>Please enter recipient e-mail!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>From e-mail is missing!</source>
@@ -1203,8 +1515,8 @@
         <translation>ع.إ</translation>
     </message>
     <message>
-        <source>User who blocked</source>
-        <translation>المستخدم الذي حَجَب</translation>
+        <source>Users who are blocked</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove block</source>
@@ -1212,10 +1524,65 @@
     </message>
 </context>
 <context>
+    <name>chat/operatorschats</name>
+    <message>
+        <source>Operators chats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Operators chats list</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>chat/adminchat</name>
     <message>
         <source>E-mail</source>
         <translation>البريد الإلكتروني</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chat duration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Waited</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>City</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Additional data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chat between operators, chat initializer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not detect. Make sure that GEO detection is enabled.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Phone</source>
@@ -1226,8 +1593,20 @@
         <translation>أرسِل رسالة بريدية</translation>
     </message>
     <message>
-        <source>Select canned message</source>
-        <translation>اختر رسالة جاهزة</translation>
+        <source>Map</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Footprint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select a canned message</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -1254,8 +1633,8 @@
         <translation>المعلومات</translation>
     </message>
     <message>
-        <source>Come from</source>
-        <translation>آتٍ من</translation>
+        <source>Came from</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block user</source>
@@ -1281,20 +1660,31 @@
 <context>
     <name>chat/syncuser</name>
     <message>
-        <source>You do not have permission to view this chat, or chat was deleted</source>
-        <translation>ليس لديك الصلاحيات اللازمة لعرض هذه المحادثة، أو أنها قد أُزِيلَت</translation>
+        <source>You do not have permission to view this chat, or the chat was deleted</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Support</source>
         <translation>الدعم</translation>
     </message>
     <message>
-        <source>Support staff member has closed this chat</source>
-        <translation>أغلق مقدم الدعم هذه المحادثة</translation>
+        <source>A support staff member has closed this chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Support closed chat window, but You can leave messages, administrator will read them later.</source>
-        <translation>أغلق مقدم الدعم نافذة المحادثة، لكن يمكنك ترك رسائلك ليراها المشرف فيما بعد.</translation>
+        <source>Support has closed the chat window, but You can leave messages, and the administrator will read them later.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>departament/edit</name>
+    <message>
+        <source>Please enter a department name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit a department</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1568,16 +1958,20 @@
         <translation>سياسة جديدة</translation>
     </message>
     <message>
-        <source>Remove selected</source>
-        <translation>احذِف المحدد</translation>
+        <source>Remove selected policy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected role</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Title</source>
         <translation>العنوان</translation>
     </message>
     <message>
-        <source>Assign group</source>
-        <translation>ألحِق مجموعة</translation>
+        <source>Assign a group</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group assignement to role</source>
@@ -1669,12 +2063,20 @@
 <context>
     <name>kernel/nopermission</name>
     <message>
-        <source>You do not have permission to access module</source>
-        <translation>ليس لديك الصلاحيات اللازمة للوصول لهذه الوحدة</translation>
+        <source>You do not have permission to access the module</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>and use</source>
         <translation>واستخدم</translation>
+    </message>
+    <message>
+        <source>Go back</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You do not have permission to edit selected object</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>function</source>
@@ -1700,12 +2102,12 @@
         <translation>دور جديد</translation>
     </message>
     <message>
-        <source>Edit role</source>
-        <translation>حرِّر الدور</translation>
+        <source>Edit a role</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Delete role</source>
-        <translation>أزِل الدور</translation>
+        <source>Delete a role</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1730,16 +2132,16 @@
         <translation>الوظائِف المُلحَقَة</translation>
     </message>
     <message>
-        <source>Choose module</source>
-        <translation>اختر الوحدة</translation>
+        <source>Choose a module</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All modules</source>
         <translation>كل الوحدات</translation>
     </message>
     <message>
-        <source>Choose module function</source>
-        <translation>اختر وظيفة الوحدة</translation>
+        <source>Choose a module function</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All functions</source>
@@ -1775,8 +2177,8 @@
 <context>
     <name>chat/deletechatadmin</name>
     <message>
-        <source>You do not have rights to delete chat</source>
-        <translation>ليس لديك الحق أن تحذف هذه المحادثة</translation>
+        <source>You do not have rights to delete a chat</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1865,12 +2267,12 @@
         <translation>أزِل الدور من المجموعة</translation>
     </message>
     <message>
-        <source>Remove user from group</source>
-        <translation>أزل المستخدم من المجموعة</translation>
+        <source>Remove user from the group</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter group name</source>
-        <translation>يُرجى ادخال اسم المجموعة</translation>
+        <source>Please enter a group name</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1880,12 +2282,44 @@
         <translation>الحد الأقصى ٥٠ حرفًا</translation>
     </message>
     <message>
+        <source>Live Support</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid captcha code, please enable Javascript!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Maximum 500 characters for message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type your message here and hit enter to send...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Leave a message</source>
         <translation>اترك رسالتك</translation>
     </message>
     <message>
-        <source>There is no online operators at the moment, please leave your message</source>
-        <translation>لا يوجد حاليًا دعم فني مباشر، من فضلك اترك لنا رسالتك</translation>
+        <source>Fill form to start chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There are no online operators at the moment, please leave a message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There are no online operators at the moment, please leave your message</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send my question</source>
@@ -1894,6 +2328,10 @@
     <message>
         <source>Enter your message</source>
         <translation>أدخل رسالتك</translation>
+    </message>
+    <message>
+        <source>Your request was sent!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter your message</source>
@@ -1951,6 +2389,10 @@
 <context>
     <name>chat/syncadmininterface</name>
     <message>
+        <source>Start chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Add chat</source>
         <translation>أضِف محادثة</translation>
     </message>
@@ -1983,8 +2425,8 @@
         <translation>أغلِق المحادثة</translation>
     </message>
     <message>
-        <source>Open in new window</source>
-        <translation>افتح بنافذة جديدة</translation>
+        <source>Open in a new window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject chat</source>
@@ -2004,6 +2446,17 @@
     <message>
         <source>Me</source>
         <translation>أنا</translation>
+    </message>
+    <message>
+        <source>System assistant</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>chat/closechatadmin</name>
+    <message>
+        <source>has closed the chat!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2025,8 +2478,8 @@
         <translation>اقبل المحادثة</translation>
     </message>
     <message>
-        <source>Open in new window</source>
-        <translation>افتح بنافذة جديدة</translation>
+        <source>Open in a new window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject chat</source>
@@ -2080,8 +2533,8 @@
         <translation>اقبل المحادثة</translation>
     </message>
     <message>
-        <source>Open in new window</source>
-        <translation>افتح بنافذة جديدة</translation>
+        <source>Open in a new window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject chat</source>
@@ -2141,16 +2594,16 @@
 <context>
     <name>chat/checkchatstatus</name>
     <message>
-        <source>Pending support staff member to join, you can write your questions, as soon support staff member confirm this chat, he will get your messages</source>
-        <translation>بانتظار مقدم الدعم الفني لدخول المحادثة، يمكنك كتابة أسئلتك، وسيراها مقدم الدعم حينما يوافق على المحادثة</translation>
+        <source>Pending a support staff member to join, you can write your questions, and as soon as a support staff member confirms this chat, he will get your messages</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Support staff member has joined this chat</source>
-        <translation>دخل مقدم الدعم هذه المحادثة</translation>
+        <source>A support staff member has joined this chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>At this moment there are no logged members, but you can leave your messages</source>
-        <translation>لا يوجد حاليًا مقدمي دعم على الخط، من فضلك اترك رسالتك</translation>
+        <source>At this moment there are no logged in support staff members, but you can leave your messages</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Support staff member has closed this chat</source>
@@ -2191,6 +2644,10 @@
         <source>System configuration</source>
         <translation>ضبط النظام</translation>
     </message>
+    <message>
+        <source>Priority</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>department/departments</name>
@@ -2230,8 +2687,16 @@
         <translation>شفرة HTML</translation>
     </message>
     <message>
-        <source>Show leave a message form then there is no online operators</source>
-        <translation>أظهر نموذج ترك رسالة حينما لا يكون هناك مقدمي دعم متصلين</translation>
+        <source>Disable pro active invitations, usefull if you want disable them from site part.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Leave empty if it is not important to you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show a leave a message form when there are no online operators</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chatbox messages content height</source>
@@ -2240,6 +2705,18 @@
     <message>
         <source>Page embed code</source>
         <translation>شفرة تضمين الصفحة</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identifier, this can be used as filter for pro active chat invitations and is use full having different messages for different domains. Only string without spaces or special characters.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>height</source>
@@ -2256,6 +2733,10 @@
     <message>
         <source>Widget height</source>
         <translation>ارتفاع الودجة</translation>
+    </message>
+    <message>
+        <source>Widget height in pixels</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Popup window size</source>
@@ -2286,28 +2767,28 @@
         <translation>الارتفاع</translation>
     </message>
     <message>
-        <source>Copy code from textarea to footer, before closing &lt;/body&gt; tag</source>
-        <translation>انسخ الشفرة من الصندوق النصي إلى التذييل، قبل وسم الإغلاق &lt;/body&gt;</translation>
+        <source>Copy the code from the tex tarea to the footer, before the closing &lt;/body&gt; tag</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Copy code from textarea to page where you want page to be rendered</source>
-        <translation>انسخ الشفرة من الصندوق النصي إلى المكان الذي تود عرض الصفحة فيه</translation>
+        <source>Copy the code from the text area to the page where you want it to be rendered</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Embed html code</source>
         <translation>ضمِّن شفرة HTML</translation>
     </message>
     <message>
-        <source>Position from top, only used if left middle or right middle is chosen</source>
-        <translation>الموضع من الأعلى، يُسْتَخدَم فقط إذا اخْتِيرَ الوسط الأيسر أو الوسط الأيمن</translation>
+        <source>Position from the top, only used if the Middle left or the Middle right side is chosen</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Check for messages from operator</source>
-        <translation>تحقق من رسائل مقدم الدعم</translation>
+        <source>Check for messages from the operator</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>On click show page widget</source>
-        <translation>بالنقر تظهر ودجة الصفحة</translation>
+        <source>On a mouse click show the page widget</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a language</source>
@@ -2318,8 +2799,8 @@
         <translation>الموضِع</translation>
     </message>
     <message>
-        <source>Native placement - will be shown where html is embeded</source>
-        <translation>التمَوْضُع الأصلي - سيظهر حيثما يُضَمَّن شفرة HTML</translation>
+        <source>Native placement - it will be shown where the html is embedded</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bottom right corner of the screen</source>
@@ -2338,12 +2819,12 @@
         <translation>الجانب المتوسط الأيسر من الشاشة</translation>
     </message>
     <message>
-        <source>Hide status then offline</source>
-        <translation>أخفِ الحالة حينما تكون غير متصلة</translation>
+        <source>Hide status when offline</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Copy code from textarea to page where you want your status to appear</source>
-        <translation>انسخ الشفرة من صندوق النصر إلى الصفحة التي تود أن يظهر بها الحالة</translation>
+        <source>Copy the code from the text area to the page where you want your status to appear</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>System configuration</source>
@@ -2357,12 +2838,12 @@
         <translation>احفظ</translation>
     </message>
     <message>
-        <source>Check messages from operators, interval in seconds</source>
-        <translation>التحقق من رسائل مقدمي الدعم، الفاصل بالثواني</translation>
+        <source>Check for messages from the operators, interval in seconds</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter valid operator message timeout value!</source>
-        <translation>من فضلك أدخل قيمة انتهاء الوقت لرسالة مقدم الدعم صالحة!</translation>
+        <source>Please enter a valid operator message timeout value!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update</source>
@@ -2377,55 +2858,55 @@
         <translation>حُدِّثت الإعدادات</translation>
     </message>
     <message>
-        <source>How many seconds user considered for being as online</source>
-        <translation>كم عدد الثواني التي يعتبر خلالها المستخدم مُتَّصلًا</translation>
+        <source>How many seconds for a user to be considered as being online</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sync for new chats, interval in seconds</source>
         <translation>مزامنة المحادثات الجديدة، الفاصل بالثواني</translation>
     </message>
     <message>
-        <source>Sync for new user message, interval in seconds</source>
-        <translation>مزامنة رسائل المستخدم الجديدة، الفاصل بالثواني</translation>
+        <source>Sync for a new user message, interval in seconds</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Play new pending chat sound on new chat request</source>
-        <translation>شغِّل صوت المحادثة المعلقة حينما يصل طلب محادثة جديد</translation>
+        <source>Play a new pending chat sound on a new chat request</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Play sound on new message for back office user</source>
-        <translation>شغِّل صوتًا حينما تصل رسالة جديدة لمستخدم المكتب الخلفي</translation>
+        <source>Play a sound on a new message for a back office user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Play sound on new message for front end user</source>
-        <translation>شغِّل صوتًا حينما تصل رسالة للمستخدم النهائي</translation>
+        <source>Play a sound on a new message for a front end user</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Synchronisation and sound settings</source>
-        <translation>اعدادات المزامنة والصوت</translation>
+        <source>Synchronization and sound settings</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter valid online timeout value!</source>
-        <translation>من فضلك أدخل قيمة صالحة لمدة انتهاء وقت الاتصال!</translation>
+        <source>Please enter a valid online timeout value!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter valid back office sync internval!</source>
-        <translation>من فضلك أدخل فاصل زمني صالح للمزامنة للمكتب الخلفي!</translation>
+        <source>Please enter a valid back office sync interval!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter valid new messages sync internval!</source>
-        <translation>من فضلك أدخل فاصل مزامنة صحيح للرسائل الجديدة!</translation>
+        <source>Please enter a valid new messages sync interval!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>chat/startchatformsettings</name>
     <message>
-        <source>Start chat form settings</source>
-        <translation>إعدادات نموذج بدء المحادثة</translation>
+        <source>Start a chat form settings</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>At least one field have to be visible and required in popup and page widget</source>
-        <translation>على الأقل يجب أن يظهر حقلٌ واحد وأن يكون مطلوبًا في النافذة المنبثقة والودجة</translation>
+        <source>At least one field has to be visible and required in the popup and page widget</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
@@ -2440,12 +2921,12 @@
         <translation>اختياري</translation>
     </message>
     <message>
-        <source>This field is visible in popup</source>
-        <translation>هذا الحقل ظاهرٌ في النافذة المنبثقة</translation>
+        <source>This field is visible in the popup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>This field is visible in page widget</source>
-        <translation>هذا الحقل ظاهرٌ في الودجة</translation>
+        <source>This field is visible in the page widget</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This field is</source>
@@ -2460,12 +2941,12 @@
         <translation>الرسالة</translation>
     </message>
     <message>
-        <source>Please choose at least one field for popup</source>
-        <translation>من فضلك اختر على الأقل حقلًا واحدًا للنافذة المنبثقة</translation>
+        <source>Please choose at least one field for a popup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please choose at least one field for page widget</source>
-        <translation>من فضلك اختر على الأقل حقلًا واحدًا للودجة</translation>
+        <source>Please choose at least one field for a page widget</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2482,8 +2963,8 @@
         <translation>قوالب البريد الإلكتروني</translation>
     </message>
     <message>
-        <source>Recipient email, this is used if application could not determine who should receive an email.</source>
-        <translation>بريد المُسْتَقْبِل، يُستخدم إذا لم يستَطِع التطبيق اكتشاف من يجب عليه استقبال الرسالة.</translation>
+        <source>Recipient email, this is used if the application could not determine who should receive an email.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Content</source>
@@ -2502,8 +2983,8 @@
         <translation>السماح بتغيير بريد المرسل</translation>
     </message>
     <message>
-        <source>From e-mail, if mail was not send for some reason, this mail will get failed delivery message</source>
-        <translation>بريد المرسل، إذا لم يتم إرسال الرسالة لسببٍ ما، سيحصُل الريد على رسالة فشل التوصيل.</translation>
+        <source>From e-mail, if mail was not sent for some reason, this mail will get a failed delivery message</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow to change from name</source>
@@ -2533,12 +3014,56 @@
         <translation>شفرة HTML</translation>
     </message>
     <message>
+        <source>Auto responder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chats list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pro active chat invitations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Statistic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>E-mail templates</source>
         <translation>قوالب البريد الإلكتروني</translation>
     </message>
     <message>
-        <source>Chat embed code</source>
-        <translation>شفرة تضمين المحادثة</translation>
+        <source>New chat notification settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Languages configuration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SMTP settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Request notification permission</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Live help embed code</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FAQ embed code</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Questionary embed code</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chatbox embed code</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Canned messages</source>
@@ -2549,16 +3074,16 @@
         <translation>اعدادات نموذج بدء المحادثة</translation>
     </message>
     <message>
-        <source>Synchronisation and sound settings</source>
-        <translation>اعدادات المزامنة والصوت</translation>
+        <source>Synchronization and sound settings</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat configuration</source>
         <translation>ضبط المحادثة</translation>
     </message>
     <message>
-        <source>Chat ralated</source>
-        <translation>متعلقات المحادثة</translation>
+        <source>Chat related</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Users and their permissions</source>
@@ -2600,8 +3125,8 @@
 <context>
     <name>department/new</name>
     <message>
-        <source>Please enter department name</source>
-        <translation>من فضلك أدخل اسم القسم</translation>
+        <source>Please enter a department name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New department</source>
@@ -2702,8 +3227,8 @@
         <translation>كلمة السر</translation>
     </message>
     <message>
-        <source>Repeat password</source>
-        <translation>إعادة كلمة السر</translation>
+        <source>Repeat the new password</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact information</source>
@@ -2730,16 +3255,16 @@
         <translation>اللقب</translation>
     </message>
     <message>
-        <source>Do not enter password unless you want to change it</source>
-        <translation>لا تدخل كلمة السر إلا إذا أردت تغييرها</translation>
+        <source>Do not enter a password unless you want to change it</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter name</source>
-        <translation>من فضلك أدخِل اسمًا</translation>
+        <source>Please enter a name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter surname</source>
-        <translation>من فضلِك أدخِل لقبًا</translation>
+        <source>Please enter a surname</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update</source>
@@ -2761,8 +3286,8 @@
         <translation>ضبط النظام</translation>
     </message>
     <message>
-        <source>Please choose default user group</source>
-        <translation>يُرجى اختيار المجموعة الافتراضية للمستخدم</translation>
+        <source>Please choose a default user group</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disabled</source>
@@ -2773,8 +3298,8 @@
         <translation>مجموعة المستخدم</translation>
     </message>
     <message>
-        <source>Departaments</source>
-        <translation>القسم</translation>
+        <source>Departments</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All departments</source>
@@ -2801,8 +3326,8 @@
         <translation>كلمة السر</translation>
     </message>
     <message>
-        <source>Repeat password</source>
-        <translation>إعادة كلمة السر</translation>
+        <source>Repeat the new password</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact information</source>
@@ -2829,16 +3354,16 @@
         <translation>اللقب</translation>
     </message>
     <message>
-        <source>Please enter name</source>
-        <translation>من فضلك أدخل اسمًا</translation>
+        <source>Please enter a name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter surname</source>
-        <translation>من فضلك أدخل لقبًا</translation>
+        <source>Please enter a surname</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter username</source>
-        <translation>من فضلك أدخِل اسم مستخدم</translation>
+        <source>Please enter a username</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User exists</source>
@@ -2896,12 +3421,12 @@
         <translation>فُعِّل لسان المحادثات المُغلقة</translation>
     </message>
     <message>
-        <source>Enter new password</source>
-        <translation>أدخِل كلمة سر جديدة</translation>
+        <source>Enter a new password</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Repeat new password</source>
-        <translation>أعد كلمة السر الجديدة</translation>
+        <source>Repeat the new password</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You have global right to see all departments chats</source>
@@ -2920,8 +3445,8 @@
         <translation>الحساب</translation>
     </message>
     <message>
-        <source>Do not enter password unless you want to change it</source>
-        <translation>لا تُدخِل كلمة السر إلا إذا أردت تغييرها</translation>
+        <source>Do not enter a password unless you want to change it</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Login information</source>
@@ -2976,12 +3501,12 @@
         <translation>اللقب</translation>
     </message>
     <message>
-        <source>Please enter name</source>
-        <translation>من فضلك أدخل اسمًا</translation>
+        <source>Please enter a name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter surname</source>
-        <translation>من فضلك أدخل لقبًا</translation>
+        <source>Please enter a surname</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3038,12 +3563,12 @@
         <translation>الإجابة</translation>
     </message>
     <message>
-        <source>URL where this question should appear, leave empty for all</source>
-        <translation>عنوان الصفحة التي يجب أن يظهر بها السؤال، اتركه خاليًا للجميع</translation>
+        <source>The URL where this question should appear, leave it empty for all</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Question active</source>
-        <translation>تفعيل السؤال</translation>
+        <source>Question is active</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3061,12 +3586,24 @@
         <translation>وصف الأسئلة الشائعة</translation>
     </message>
     <message>
-        <source>Please enter question!</source>
-        <translation>من فضلك أدخِل سؤالًا!</translation>
+        <source>Please enter a question!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FAQ</source>
         <translation>الأسئلة الشائعة</translation>
+    </message>
+    <message>
+        <source>Please enter a manager name!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a chatbox name!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a chatbox identifier!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3092,12 +3629,12 @@
         <translation>السؤال</translation>
     </message>
     <message>
-        <source>Send question</source>
-        <translation>أرسِل سؤالًا</translation>
+        <source>Send your question</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter question!</source>
-        <translation>من فضلِك أدخِل سؤالًا!</translation>
+        <source>Please enter a question!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3138,20 +3675,20 @@
         <translation>اسم مقدم الدعم الافتراضي</translation>
     </message>
     <message>
-        <source>Messages limit in chatbox</source>
-        <translation>حد الرسائل في صندوق المحادثة</translation>
+        <source>Messages limit in the chatbox</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Auto creation by chatbox identifier enabled</source>
-        <translation>فُعِّل الإنشاء التلقائي بواسطة معرف صندوق المحادثة</translation>
+        <source>Auto creation by chatbox identifier is enabled</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Secret hash, used then auto creation is disabled</source>
-        <translation>البصمة السرية التي تستخدم للإنشاء التلقائي معطلة.</translation>
+        <source>Secret hash, this is used when auto creation is disabled</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>more information how to use it</source>
-        <translation>المزيد من المعلومات حول كيفية استخدامها</translation>
+        <source>more information on how to use it</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3167,6 +3704,17 @@
     <message>
         <source>Identifier</source>
         <translation>المعرف</translation>
+    </message>
+</context>
+<context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+        <source>Password reminder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>E-mail sent. Click the link in the email and You will be sent out a new password.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3186,6 +3734,37 @@
     <message>
         <source>Chatbox active</source>
         <translation>تفعيل صندوق المحادثة</translation>
+    </message>
+</context>
+<context>
+    <name>system/smtp</name>
+    <message>
+        <source>SMTP settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Settings updated</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SMTP enabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
