@@ -3,6 +3,12 @@
 $tpl = erLhcoreClassTemplate::getInstance( 'lhchatarchive/newarchive.tpl.php');
 $archive = new erLhcoreClassModelChatArchiveRange();
 
+if (isset($_POST['Cancel_archive']) )
+{
+	erLhcoreClassModule::redirect('chatarchive/archive');
+	exit;
+}
+
 if (isset($_POST['Save_archive']))
 {
 	$definition = array(
@@ -19,25 +25,25 @@ if (isset($_POST['Save_archive']))
 
 	if ( !$form->hasValidData( 'RangeFrom' ) || $form->RangeFrom == '' )
 	{
-		$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('departament/edit','Please enter a valid from date range!');
+		$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','Please enter a valid from date range!');
 	} else {
 		$range = explode('-', $form->RangeFrom);
 		if (checkdate($range[1], $range[2], $range[0])){
 			$archive->range_from = mktime(0,0,0,$range[1],$range[2],$range[0]);
 		} else {
-			$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('departament/edit','Please enter a valid from date range!');
+			$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','Please enter a valid from date range!');
 		}
 	}
 
 	if ( !$form->hasValidData( 'RangeTo' ) || $form->RangeTo == '' )
 	{
-		$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('departament/edit','Please enter a valid to date range!');
+		$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','Please enter a valid to date range!');
 	} else {
 		$range = explode('-', $form->RangeTo);
 		if (checkdate($range[1], $range[2], $range[0])){
 			$archive->range_to = mktime(0,0,0,$range[1],$range[2],$range[0]);
 		} else {
-			$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('departament/edit','Please enter a valid to date range!');
+			$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','Please enter a valid to date range!');
 		}
 	}
 
@@ -58,6 +64,10 @@ if (isset($_POST['Save_archive']))
 $tpl->set('archive',$archive);
 
 $Result['content'] = $tpl->fetch();
-$Result['path'] = array(array('url' => erLhcoreClassDesign::baseurl('system/configuration'),'title' => erTranslationClassLhTranslation::getInstance()->getTranslation('system/configuration','Archive utility')))
+
+$Result['path'] = array(
+		array('url' => erLhcoreClassDesign::baseurl('system/configuration'),'title' => erTranslationClassLhTranslation::getInstance()->getTranslation('department/departments','System configuration')),
+		array('url' => erLhcoreClassDesign::baseurl('chatarchive/archive'),'title' => erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/archive','Chat archive')));
+$Result['path'][] = array('title' => erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','New archive'));
 
 ?>

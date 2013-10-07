@@ -1,4 +1,4 @@
-<h1><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('department/edit','New archive');?></h1>
+<h1><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','New archive');?></h1>
 
 <?php if (isset($errors)) : ?>
 	<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
@@ -11,11 +11,11 @@
 <?php else : ?>
 <form action="<?php echo erLhcoreClassDesign::baseurl('chatarchive/newarchive')?>" method="post">
 
-	<label><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('department/edit','Date from');?></label>
-	<input type="text" name="RangeFrom" placeholder="E.g <?php echo date('Y-m-d')?>" value="<?php echo htmlspecialchars($archive->range_from_front);?>" />
+	<label><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','Date from');?></label>
+	<input type="text" name="RangeFrom" placeholder="<?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','E.g');?> <?php echo date('Y-m-d')?>" value="<?php echo htmlspecialchars($archive->range_from_front);?>" />
 
-	<label><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('department/edit','Date to');?></label>
-	<input type="text" name="RangeTo" placeholder="E.g <?php echo date('Y-m-d')?>" value="<?php echo htmlspecialchars($archive->range_to_front);?>" />
+	<label><?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','Date to');?></label>
+	<input type="text" name="RangeTo" placeholder="<?php echo erTranslationClassLhTranslation::getInstance()->getTranslation('chatarchive/newarchive','E.g');?> <?php echo date('Y-m-d')?>" value="<?php echo htmlspecialchars($archive->range_to_front);?>" />
 
     <?php include(erLhcoreClassDesign::designtpl('lhkernel/csfr_token.tpl.php'));?>
 
