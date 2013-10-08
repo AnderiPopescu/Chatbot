@@ -1169,6 +1169,10 @@
         <translation>Usuário logado</translation>
     </message>
     <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
         <source>FAQ</source>
         <translation>FAQ</translation>
     </message>
@@ -1319,7 +1323,7 @@
     </message>
     <message>
         <source>Resume chat</source>
-        <translation>Retomar a conversa</translation>
+        <translation>Retomar o chat</translation>
     </message>
 </context>
 <context>
