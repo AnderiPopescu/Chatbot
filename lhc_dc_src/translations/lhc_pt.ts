@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Referrer</source>
-        <translation>Referente</translation>
+        <translation>Referenciador</translation>
     </message>
     <message>
         <source>IP</source>
@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Department</source>
-        <translation>Departamentos</translation>
+        <translation>Departamento</translation>
     </message>
 	<message>
         <source>Browser</source>
@@ -122,14 +122,14 @@
     </message>
     <message>
         <source>Autologin</source>
-        <translation>Entrar automatico</translation>
+        <translation>Entrar automático</translation>
     </message>
 </context>
 <context>
     <name>LoginDialog</name>
     <message>
         <source>Authentication failed</source>
-        <translation>Falha ao entrar</translation>
+        <translation>Falha ao autenticar</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -137,15 +137,15 @@
     </message>
     <message>
         <source>The host field is empty!</source>
-        <translation>Servidor em branco</translation>
+        <translation>O campo Servidor está vazio!</translation>
     </message>
     <message>
         <source>The password field is empty!</source>
-        <translation>Senha em branco</translation>
+        <translation>O campo Senha está vazio!</translation>
     </message>
     <message>
         <source>The username field is empty!</source>
-        <translation>Usuario em branco</translation>
+        <translation>O campo Usuário está vazio!</translation>
     </message>
 </context>
 <context>
@@ -160,22 +160,22 @@
     </message>
     <message>
         <source>Ok</source>
-        <translation>ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cacelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>ChatRoomsWindow</name>
     <message>
         <source>Add chat</source>
-        <translation>Iniciar Atendimento</translation>
+        <translation>Adicionar chat</translation>
     </message>
 	<message>
         <source>Accept chat</source>
-        <translation>Aceitar conversar</translation>
+        <translation>Aceitar chat</translation>
     </message>
     <message>
         <source>Open in a new window</source>
@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>Active chats</source>
-        <translation>Atendimento em andamento</translation>
+        <translation>Chats ativos</translation>
     </message>
 	<message>
         <source>Send private message</source>
@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>Choose canned message</source>
-        <translation>Escolha mensagem a preservar</translation>
+        <translation>Escolha mensagem predefinida</translation>
     </message>
     <message>
         <source>User joined chat</source>
@@ -266,11 +266,11 @@
     </message>
     <message>
         <source>responsable</source>
-        <translation>Responsavel</translation>
+        <translation>Responsável</translation>
     </message>
     <message>
         <source>Came from</source>
-        <translation>veio de</translation>
+        <translation>Veio de</translation>
     </message>
 	<message>
         <source>Country</source>
@@ -297,11 +297,11 @@
     </message>
     <message>
         <source>You have a new chat pending. To start the chat click me.</source>
-        <translation>Você tem um atendimento. Clique para inicar</translation>
+        <translation>Você tem um chat pendente. Clique para inicar</translation>
     </message>
     <message>
         <source>A new chat has been transferred to you. To start the chat click me.</source>
-        <translation>Você tem uma transferencia de atendimento. Clique para iniciar</translation>
+        <translation>Um novo chat foi transferido para você. Clique para iniciar</translation>
     </message>
     <message>
         <source>Waiting for action...</source>
@@ -325,7 +325,7 @@
     </message>
     <message>
         <source>Chat rooms</source>
-        <translation>Atendimentos</translation>
+        <translation>Salas de chat</translation>
     </message>
     <message>
         <source>About</source>
@@ -345,7 +345,7 @@
     </message>
     <message>
         <source>&amp;Management</source>
-        <translation>&amp;Manutenção</translation>
+        <translation>&amp;Gerenciamento</translation>
     </message>
     <message>
         <source>&amp;Help</source>
