@@ -3711,7 +3711,7 @@ Lista de funciones</translation>
     <name>user/login</name>
     <message>
       <source>Please login</source>
-      <translation>Por favor inicie sesión </translation>
+      <translation>Por favor, inicie sesión</translation>
     </message>
     <message>
       <source>Username</source>
