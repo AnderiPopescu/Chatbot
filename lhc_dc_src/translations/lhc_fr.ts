@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>E-mail</source>
-        <translation>E-mail</translation>
+        <translation>Courriel</translation>
     </message>
     <message>
         <source>Department</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>The host field is empty!</source>
-        <translation>Le champ Hôte est vide!</translation>
+        <translation>Le champ hôte est vide!</translation>
     </message>
     <message>
         <source>The password field is empty!</source>
