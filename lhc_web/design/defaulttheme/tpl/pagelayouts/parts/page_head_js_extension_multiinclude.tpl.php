@@ -2,6 +2,6 @@
 /**
  * Override this template
  * 
- * <link rel="stylesheet" type="text/css" href="<?php echo erLhcoreClassDesign::designJS('js/myextension.js');?>" />
+ * <script type="text/javascript" language="javascript" src="<?php echo erLhcoreClassDesign::designJS('js/extension.lhc.js');?>"></script>
  * */
 ?>
