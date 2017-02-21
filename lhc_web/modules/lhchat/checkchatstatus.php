@@ -136,7 +136,6 @@ try {
 	    $tpl->set('chat', $chat);
     }
 
-
 } catch (Exception $e) {
     exit;
 }
