@@ -4048,7 +4048,7 @@ Icona colonna, testo icone materiale</translation>
     </message>
     <message>
       <source>Go to leave a message form</source>
-      <translation>Vai al modulo&quot;Lascia un messaggio&quot;</translation>
+      <translation>Vai al modulo lascia un messaggio</translation>
     </message>
     <message>
       <source>Cancel and choose another department</source>
@@ -4176,7 +4176,7 @@ Icona colonna, testo icone materiale</translation>
     </message>
     <message>
       <source>Your request was not processed as expected - but don&apos;t worry it was not your fault. Please re-submit your request. If you experience the same issue you will need to contact us via other means.</source>
-      <translation>La tua richiesta non è stata elaborata come previsto, ma non preoccuparti, non è stata colpa tua. Si prega di inviare nuovamente la richiesta. Se riscontri lo stesso problema, dovrai contattarci tramite altri mezzi.</translation>
+      <translation>La tua richiesta non è stata elaborata come previsto, ma non preoccuparti, non è stata colpa tua. Si prega di inviare nuovamente la richiesta. Se riscontri lo stesso problema, dovrai contattarci tramite altri canali.</translation>
     </message>
     <message>
       <source>Invalid file extension</source>
@@ -8353,7 +8353,7 @@ Icona colonna, testo icone materiale</translation>
     </message>
     <message>
       <source>Submit</source>
-      <translation>Sottoscrivi</translation>
+      <translation>Invia</translation>
     </message>
     <message>
       <source>Information collected</source>
