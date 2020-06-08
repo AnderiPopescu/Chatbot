@@ -2,6 +2,22 @@
   <context>
     <name>listchatconfig</name>
     <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>How many days voting widget should not be expanded after last show</source>
       <translation>Son gösteriminden kaç gün sonra oy kullanma kutucuğu açılmamalı?</translation>
     </message>
@@ -490,6 +506,10 @@
   <context>
     <name>abstract/widgettheme</name>
     <message>
+      <source>Use modern look</source>
+      <translation>Modern görünüm </translation>
+    </message>
+    <message>
       <source>Welcome message</source>
       <translation>Hoşgeldin mesajı</translation>
     </message>
@@ -620,6 +640,18 @@
     <message>
       <source>Operator messages style</source>
       <translation>Operatör Mesaj Stili</translation>
+    </message>
+    <message>
+      <source>Build your own need help widget layout</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Set default HTML</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>If you want to get nerdy you can build your own eye catcher using default template as starting point. You can adjust need help widget dimensions above. Also see what placeholders we support.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>General settings</source>
@@ -906,6 +938,22 @@
       <translation>Sohbet durumu kaç saniye sonra gösterilsin?</translation>
     </message>
     <message>
+      <source>Need help widget width</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Need help widget height</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Position from right</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Position from bottom</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Show need help tooltip?</source>
       <translation>Yardım pop-up&apos;u aktif edilsin mi?</translation>
     </message>
@@ -914,8 +962,12 @@
       <translation>Mesaj saatleri kullanıcıdan gizlensin mi?</translation>
     </message>
     <message>
-      <source>Use modern look</source>
-      <translation>Modern görünüm </translation>
+      <source>Use modern look. It is used only in older widget.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Use a new widget look for old embed code. If you can not change easily old embed codes you can force system to load new widget still.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Need help standard text</source>
@@ -1060,6 +1112,10 @@
     <message>
       <source>Widget border color</source>
       <translation>Araç çerçeve rengi</translation>
+    </message>
+    <message>
+      <source>Custom need help HTML</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Need help background color</source>
@@ -2235,6 +2291,22 @@
       <translation>Anonim</translation>
     </message>
     <message>
+      <source>Chats without an operator</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chats with an operator</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chats which had a bot</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chats which did not had a bot</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Print</source>
       <translation>Yazdır</translation>
     </message>
@@ -2283,16 +2355,16 @@
       <translation>Proaktif davetiye seçiniz</translation>
     </message>
     <message>
+      <source>Select bot</source>
+      <translation>Bot Seçiniz</translation>
+    </message>
+    <message>
       <source>Type to search</source>
       <translation>Aramak için yazın</translation>
     </message>
     <message>
       <source>Transfer to bot only if department is offline</source>
       <translation>Bot&apos;a yalnızca bölüm çevrimdışı olduğunda aktarma</translation>
-    </message>
-    <message>
-      <source>Select bot</source>
-      <translation>Bot Seçiniz</translation>
     </message>
     <message>
       <source>Select translations</source>
@@ -2337,6 +2409,10 @@
     <message>
       <source>Group field</source>
       <translation>Grup alanı</translation>
+    </message>
+    <message>
+      <source>Bot</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Exclude offline requests from charts</source>
@@ -2729,6 +2805,10 @@
     <message>
       <source>Screen shared, click to finish</source>
       <translation>Ekran paylaşıldı, Bitirmek için tıklayın</translation>
+    </message>
+    <message>
+      <source>Our staff are ready to help!</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -5268,6 +5348,10 @@
       <translation>Kullanıcı bot sohbetine yönlendirildiğinde sohbet durumunu güncelle</translation>
     </message>
     <message>
+      <source>Custom need help HTML</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Pending a support staff member to join, you can write your questions, and as soon as a support staff member confirms this chat, they will get your messages</source>
       <translation>Destek ekibimizin sohbetinize bağlanması bekleniyor, bu süreçte sorununuz hakkında detaylı bilgi verebilirsiniz. İlgili operatör mesajınızı görecektir.</translation>
     </message>
@@ -5332,6 +5416,10 @@
     <message>
       <source>Enable/Disable sound about new pending chats</source>
       <translation>Beklemede olan yeni konuşmalar için sesli bildirimleri, Etkinleştir / Devre dışı bırak </translation>
+    </message>
+    <message>
+      <source>Change my persistent status to online</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -6795,6 +6883,10 @@
       <translation>Operatör Sohbeti</translation>
     </message>
     <message>
+      <source>Bot chat</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Empty...</source>
       <translation>Boş...</translation>
     </message>
@@ -7028,10 +7120,6 @@
       <translation>Sohbet sekmesi</translation>
     </message>
     <message>
-      <source>Configuration</source>
-      <translation>Yapılandırma</translation>
-    </message>
-    <message>
       <source>Chats list</source>
       <translation>Konuşmalar listesi </translation>
     </message>
@@ -7042,6 +7130,42 @@
     <message>
       <source>Logout</source>
       <translation>Çıkış</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Yapılandırma</translation>
+    </message>
+    <message>
+      <source>New messages</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>New chats</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invisible</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Visible</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Offline</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Online</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Always online</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Based on activity</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
