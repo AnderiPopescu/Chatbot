@@ -13,18 +13,18 @@ if (isset($_GET['doSearch'])) {
 $append = erLhcoreClassSearchHandler::getURLAppendFromInput($filterParams['input_form']);
 
 $pages = new lhPaginator();
-$pages->items_total = erLhcoreClassModelMailconvMailbox::getCount($filterParams['filter']);
+$pages->items_total = erLhcoreClassModelMailconvMailingList::getCount($filterParams['filter']);
 $pages->translationContext = 'chat/activechats';
 $pages->serverURL = erLhcoreClassDesign::baseurl('mailconv/mailbox').$append;
 $pages->paginate();
 $tpl->set('pages',$pages);
 
 if ($pages->items_total > 0) {
-    $items = erLhcoreClassModelMailconvMailbox::getList(array_merge(array('limit' => $pages->items_per_page, 'offset' => $pages->low),$filterParams['filter']));
+    $items = erLhcoreClassModelMailconvMailingList::getList(array_merge(array('limit' => $pages->items_per_page, 'offset' => $pages->low),$filterParams['filter']));
     $tpl->set('items',$items);
 }
 
-$filterParams['input_form']->form_action = erLhcoreClassDesign::baseurl('mailconv/mailbox');
+$filterParams['input_form']->form_action = erLhcoreClassDesign::baseurl('mailing/mailinglist');
 $tpl->set('input',$filterParams['input_form']);
 $tpl->set('inputAppend',$append);
 
