@@ -1379,11 +1379,11 @@
     </message>
     <message>
       <source>Do not allow visitor return to chat if survey is filled.</source>
-      <translation>Ne engedje, hogy a látogató visszatérjen a Beszélgetés címre, ha a felmérés kitöltésre került.</translation>
+      <translation>A látogató megakadályozása a beszélgetéshez való visszatérésben, ha a kérdőív ki van töltve</translation>
     </message>
     <message>
       <source>Close widget for user also after survey is filled.</source>
-      <translation>A widget bezárása a felhasználó számára a felmérés kitöltése után is.</translation>
+      <translation>A widget bezárása a felhasználó számára a felmérés kitöltése után is</translation>
     </message>
     <message>
       <source>Disable chat download</source>
@@ -2059,7 +2059,7 @@
     </message>
     <message>
       <source>Show files attachement button next to settings</source>
-      <translation>Fájlok megjelenítése csatolmány gomb a beállítások</translation>
+      <translation>Fájlmellékletek gomb megjelenítése a beállítások mellett</translation>
     </message>
     <message>
       <source>Show operator profile above input fields</source>
@@ -2646,11 +2646,11 @@
     </message>
     <message>
       <source>Messages from visitors to agents</source>
-      <translation>Üzenetek a látogatóktól az ügynököknek</translation>
+      <translation>Üzenetek a látogatóktól az ügyintézőknek</translation>
     </message>
     <message>
       <source>Messages from agents to visitors</source>
-      <translation>Üzenetek az ügynököktől a látogatóknak</translation>
+      <translation>Üzenetek az ügyintézőktől a látogatóknak</translation>
     </message>
     <message>
       <source>Applies to rest API calls</source>
@@ -2674,7 +2674,7 @@
     </message>
     <message>
       <source>Auto reply warning if visitor is posting information to agent which does not have permission to view sensitive data.</source>
-      <translation>Automatikus figyelmeztető válasz, ha egy látogató olyan információt küld egy ügynöknek, amely érzékeny adatok megtekintéséhez neki nincs jogosultsága</translation>
+      <translation>Automatikus figyelmeztető válasz, ha egy látogató olyan információt küld egy ügyintézőnek, amely érzékeny adatok megtekintéséhez neki nincs jogosultsága</translation>
     </message>
     <message>
       <source>Department rule to apply</source>
@@ -6251,15 +6251,15 @@
     </message>
     <message>
       <source>First response time (agent)</source>
-      <translation>Első válaszidő (ügynök)</translation>
+      <translation>Első válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Max response time (agent)</source>
-      <translation>Leghosszabb válaszidő (ügynök)</translation>
+      <translation>Leghosszabb válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Average response time (agent)</source>
-      <translation>Átlagos válaszidő (ügynök)</translation>
+      <translation>Átlagos válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Chat Priority</source>
@@ -7027,7 +7027,7 @@
     </message>
     <message>
       <source>Agent</source>
-      <translation>Ügynök</translation>
+      <translation>Ügyintéző</translation>
     </message>
     <message>
       <source>Chats</source>
@@ -7159,19 +7159,19 @@
     </message>
     <message>
       <source>Average chat length (agent)</source>
-      <translation>Átlagos beszélgetéshossz (ügynök)</translation>
+      <translation>Átlagos beszélgetéshossz (ügyintéző)</translation>
     </message>
     <message>
       <source>Average of first response time (agent)</source>
-      <translation>Átlagos első válaszidő (ügynök)</translation>
+      <translation>Átlagos első válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Average of response time (agent)</source>
-      <translation>Átlagos válaszidő (ügynök)</translation>
+      <translation>Átlagos válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Average of maximum response time (agent)</source>
-      <translation>Átlagos leghosszabb válaszidő (ügynök)</translation>
+      <translation>Átlagos leghosszabb válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Total mails</source>
@@ -7303,7 +7303,7 @@
     </message>
     <message>
       <source>Do not automatically accept assigned chats</source>
-      <translation>A hozzárendelt csevegések ne legyenek auto. elfogadva</translation>
+      <translation>A hozzárendelt beszélgetések ne legyenek auto. elfogadva</translation>
     </message>
     <message>
       <source>Show alerts for transferred chats</source>
@@ -9219,11 +9219,11 @@
     </message>
     <message>
       <source>Dictate</source>
-      <translation>Diktáljon</translation>
+      <translation>Diktálás</translation>
     </message>
     <message>
       <source>Stop</source>
-      <translation>Stop</translation>
+      <translation>Megállítás</translation>
     </message>
     <message>
       <source>You must accept terms</source>
@@ -10954,7 +10954,7 @@
     </message>
     <message>
       <source>Average response time (agent)</source>
-      <translation>Átlagos válaszidő (ügynök)</translation>
+      <translation>Átlagos válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Additional data</source>
@@ -11094,7 +11094,7 @@
     </message>
     <message>
       <source>First response time (agent)</source>
-      <translation>Első válaszidő (ügynök)</translation>
+      <translation>Első válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Collapse/Expand</source>
@@ -11110,7 +11110,7 @@
     </message>
     <message>
       <source>Max response time (agent)</source>
-      <translation>Leghosszabb válaszidő (ügynök)</translation>
+      <translation>Leghosszabb válaszidő (ügyintéző)</translation>
     </message>
     <message>
       <source>Online profile</source>
@@ -11747,7 +11747,7 @@
     </message>
     <message>
       <source>Chat was assigned to chat opener event it had other agent assigned at that moment</source>
-      <translation>A beszélgetés beszélgetésmegnyitási eseményhez volt rendelve; megnyitáskor más ügynökre lett osztva</translation>
+      <translation>A beszélgetés beszélgetésmegnyitási eseményhez volt rendelve; megnyitáskor más ügyintézőre lett osztva</translation>
     </message>
     <message>
       <source>Opened chat by</source>
@@ -12793,7 +12793,7 @@
     </message>
     <message>
       <source>Agents with higher assignment priority will be assigned first to chat</source>
-      <translation>Elsőként a magasabb hozzárendelési prioritással rendelkező ügynökök lesznek hozzárendelve a beszélgetésekhez</translation>
+      <translation>Elsőként a magasabb hozzárendelési prioritással rendelkező ügyintézők lesznek hozzárendelve a beszélgetésekhez</translation>
     </message>
     <message>
       <source>Min and Max chat priority for chat being assigned by department priority assignment flow. Inclusive.</source>
@@ -12805,7 +12805,7 @@
     </message>
     <message>
       <source>Agent will not participate in regular auto assignment flow. Only department priority assignment chats will be assigned.</source>
-      <translation>Az ügynök nem vesz részt a szokásos automatikus hozzárendelési folyamatban. Kizárólag az részleg prioritás-hozzárendelésével érintett beszélgetések hozzárendelése</translation>
+      <translation>Az ügyintéző nem vesz részt a szokásos automatikus hozzárendelési folyamatban. Kizárólag a részleg prioritás-hozzárendelésével érintett beszélgetések lesznek hozzárendelve</translation>
     </message>
     <message>
       <source>Department alias</source>
@@ -14077,7 +14077,7 @@
     </message>
     <message>
       <source>While testing please disable respose cache.</source>
-      <translation>A tesztelés során kérjük, hogy letiltás respose cache.</translation>
+      <translation>Tesztelés közben, kérjük, kapcsolja ki a válaszok gyorsítótárazását</translation>
     </message>
     <message>
       <source>Enable translation response cache</source>
@@ -14169,7 +14169,7 @@
     </message>
     <message>
       <source>Formality</source>
-      <translation>Formaság</translation>
+      <translation>Formalitás</translation>
     </message>
     <message>
       <source>default</source>
@@ -14177,15 +14177,15 @@
     </message>
     <message>
       <source>prefer_more - more formal if available, otherwise default</source>
-      <translation>prefer_more - formálisabb, ha rendelkezésre áll, egyébként alapértelmezett</translation>
+      <translation>prefer_more - formálisabb, ha elérhető, egyébként az alapértelmezett</translation>
     </message>
     <message>
       <source>prefer_less - more informal if available, otherwise default</source>
-      <translation>prefer_less - kötetlenebb, ha rendelkezésre áll, egyébként alapértelmezett</translation>
+      <translation>prefer_less - informálisabb, ha elérhető, egyébként az alapértelmezett</translation>
     </message>
     <message>
       <source>More information about formality</source>
-      <translation>További információ a formalitásról</translation>
+      <translation>További információk a formalitásról</translation>
     </message>
     <message>
       <source>Model type</source>
@@ -14193,19 +14193,19 @@
     </message>
     <message>
       <source>Default</source>
-      <translation>alapértelmezett</translation>
+      <translation>Alapértelmezett</translation>
     </message>
     <message>
       <source>Quality optimized</source>
-      <translation>Optimalizált minőség</translation>
+      <translation>Minőségre optimalizált</translation>
     </message>
     <message>
       <source>Latency optimized</source>
-      <translation>Késleltetés optimalizált</translation>
+      <translation>Késleltetésre optimalizált</translation>
     </message>
     <message>
       <source>More information about model type</source>
-      <translation>További információ a modelltípusról</translation>
+      <translation>További információk a modell típusáról</translation>
     </message>
     <message>
       <source>Hide translate single message button.</source>
@@ -14249,7 +14249,7 @@
     </message>
     <message>
       <source>From and To langauges should be different</source>
-      <translation>A From és To nyelveknek különbözőnek kell lenniük.</translation>
+      <translation>A forrás- és célnyelvnek különbözőnek kell lennie.</translation>
     </message>
     <message>
       <source>We could not detect operator language</source>
@@ -14273,7 +14273,7 @@
     </message>
     <message>
       <source>Automatic translation stopped</source>
-      <translation>Az automatikus fordítás leállt</translation>
+      <translation>Automatikus fordítás leállítva</translation>
     </message>
     <message>
       <source>Settings has been saved</source>
@@ -14281,11 +14281,11 @@
     </message>
     <message>
       <source>Automatic translation started</source>
-      <translation>Automatikus fordítás indult</translation>
+      <translation>Automatikus fordítás elindítva</translation>
     </message>
     <message>
       <source>Old messages will be translated.</source>
-      <translation>A régi üzenetek le lesz fordítva.</translation>
+      <translation>A régi üzenetek lefordításával</translation>
     </message>
     <message>
       <source>Please choose translation languages manually and click Auto translate</source>
@@ -15730,11 +15730,11 @@
     </message>
     <message>
       <source>Agents response times calculation log</source>
-      <translation>Az ügynökök válaszidejének kiszámítási naplója</translation>
+      <translation>Az ügyintézők válaszidejének kiszámítási naplója</translation>
     </message>
     <message>
       <source>Duration per agent</source>
-      <translation>Időtartam per ügynök</translation>
+      <translation>Időtartam ügyintézőnként</translation>
     </message>
     <message>
       <source>Chat auto responder</source>
@@ -15781,7 +15781,7 @@
     </message>
     <message>
       <source>Close active chat if it runs longer than x minutes. This strictly limits how long an active chat can remain open.</source>
-      <translation>Az aktív csevegések bezárása, ha azok a megadott percnél tovább tartanak. Ezzel szigorúan korlátozható, hogy egy aktív csevegés mennyi ideig maradhat nyitva</translation>
+      <translation>Az aktív beszélgetések bezárása, ha azok a megadott percnél tovább tartanak. Ezzel szigorúan korlátozható, hogy egy aktív beszélgetés mennyi ideig maradhat nyitva</translation>
     </message>
     <message>
       <source>Closes chat if more than a defined amount of time has passed since the last visitor message.</source>
@@ -15941,7 +15941,7 @@
     </message>
     <message>
       <source>Content chunks</source>
-      <translation>Tartalom darabok</translation>
+      <translation>Tartalomblokkok</translation>
     </message>
     <message>
       <source>Chat</source>
@@ -18837,7 +18837,7 @@
     </message>
     <message>
       <source>Minimum agent assignment priority. Inclusive.</source>
-      <translation>A legalacsonyabb ügynök-hozzárendelési prioritás (befoglalóan)</translation>
+      <translation>A legalacsonyabb ügyintéző-hozzárendelési prioritás (befoglalóan)</translation>
     </message>
     <message>
       <source>Minimum chat priority for it being processed with prioritized assignment workflow. Inclusive.</source>
@@ -19365,7 +19365,7 @@
     </message>
     <message>
       <source>Voice messages engine</source>
-      <translation>Hang üzenetek motor</translation>
+      <translation>A hangüzenetek motorja</translation>
     </message>
     <message>
       <source>File</source>
@@ -19373,11 +19373,11 @@
     </message>
     <message>
       <source>WebKit dictate</source>
-      <translation>WebKit diktátum</translation>
+      <translation>WebKit-diktálás</translation>
     </message>
     <message>
       <source>LLM (Disabled at the moment)</source>
-      <translation>LLM (letiltva jelenleg)</translation>
+      <translation>LLM (jelenleg letiltva)</translation>
     </message>
     <message>
       <source>Voice message max length in seconds</source>
@@ -19397,7 +19397,7 @@
     </message>
     <message>
       <source>Delete only those type of files. Choose only one or none to delete all files.</source>
-      <translation>Csak az ilyen típusú fájlokat törölje. Válassza ki a Csak egy vagy Egyik sem lehetőséget az összes fájl törléséhez.</translation>
+      <translation>Csak az alábbi típusú fájlok törlése. Válassz ki csak egyet, vagy ne válassz ki egyet sem, ha az összes fájlt törölni szeretnéd</translation>
     </message>
     <message>
       <source>And operator file is older than n days</source>
@@ -19724,7 +19724,7 @@
     <name>genericbot/helpattributes</name>
     <message>
       <source>Describes the average time the agent takes to reply a message to the visitor, it considers the whole conversation.</source>
-      <translation>Megmutatja azt az átlagos időt, amely alatt az ügynök válaszolt egy-egy látogatói üzenetre, a teljes beszélgetést figyelembe véve</translation>
+      <translation>Megmutatja azt az átlagos időt, amely alatt az ügyintéző válaszolt egy-egy látogatói üzenetre, a teljes beszélgetést figyelembe véve</translation>
     </message>
     <message>
       <source>Describes how long chat took before it was closed. Chat duration is based on time spend between messages.</source>
@@ -19732,15 +19732,15 @@
     </message>
     <message>
       <source>Describes how long chat took before it was closed. Chat duration is based on time spend between messages per agent.</source>
-      <translation>Annak leírása, hogy mennyi ideig tartott a beszélgetés, mielőtt lezárták volna. A beszélgetés időtartama az ügynökönkénti üzenetek között eltelt időn alapul</translation>
+      <translation>Annak leírása, hogy mennyi ideig tartott a beszélgetés, mielőtt lezárták volna. A beszélgetés időtartama az ügyintézőnkénti üzenetek között eltelt időn alapul</translation>
     </message>
     <message>
       <source>Describes how long the agent takes to reply the first message to the visitor, after chat acceptance.</source>
-      <translation>Megmutatja, hogy a beszélgetés elfogadása után mennyi időbe telt, amíg az ügynök válaszolt a látogató első üzenetére</translation>
+      <translation>Megmutatja, hogy a beszélgetés elfogadása után mennyi időbe telt, amíg az ügyintéző válaszolt a látogató első üzenetére</translation>
     </message>
     <message>
       <source>Describes the maximum time the agent takes to reply a message to the visitor.</source>
-      <translation>Megmutatja azt a leghosszabb időt, amelyre az ügynöknek szüksége volt ahhoz, hogy válaszoljon egy látogatói üzenetre</translation>
+      <translation>Megmutatja azt a leghosszabb időt, amelyre az ügyintézőnek szüksége volt ahhoz, hogy válaszoljon egy látogatói üzenetre</translation>
     </message>
     <message>
       <source>Conditions explain</source>
@@ -19852,183 +19852,183 @@
     </message>
     <message>
       <source>Formula (per participant): AART = round(sum of that participant response times / number of that participant responses).</source>
-      <translation>Képlet (résztvevőnként): AART = kerek(az adott résztvevő válaszidejének összege / az adott résztvevő válaszainak száma).</translation>
+      <translation>Képlet (résztvevőnként): ÁÜV = kerekítés(az adott résztvevő válaszidejeinek összege / az adott résztvevő válaszainak száma)</translation>
     </message>
     <message>
       <source>A response time starts when a visitor message appears.</source>
-      <translation>A válasz idő akkor indul el, amikor megjelenik a látogató üzenet .</translation>
+      <translation>A válaszidő onnantól számít, amikor megjelenik a látogatói üzenet</translation>
     </message>
     <message>
       <source>Consecutive visitor messages do not reset response start point. While waiting for operator reply, only the first pending visitor start is used; later visitor messages do not replace it.</source>
-      <translation>Az egymást követő látogató üzenetek  nem visszaállítás válasz kezdőpontja. A Operátor válaszra várva csak az első függőben lévő látogató kezdőpontot használják; a későbbi látogató üzenetek nem helyettesítik azt.</translation>
+      <translation>Az egymást követő látogatói üzenetek nem állítják vissza a válasz kezdőpontját. Az operátor válaszára való várakozás közben csak az első függőben lévő látogatói kezdeményezést veszi figyelembe a rendszer; a későbbi látogatói üzenetek nem lépnek ennek a helyébe</translation>
     </message>
     <message>
       <source>A response time ends when that same participant sends the next real operator message.</source>
-      <translation>A válasz idő akkor ér véget, amikor ugyanez a résztvevő elküldi a következő valódi Operátor üzenet  .</translation>
+      <translation>A válaszidő akkor ér véget, amikor ugyanaz a résztvevő elküldi a következő, valódi operátor által küldött üzenetet</translation>
     </message>
     <message>
       <source>Only positive delays are used. If there is no valid reply for a visitor message, nothing is added.</source>
-      <translation>Csak pozitív késleltetéseket használnak. Ha nincs érvényes válasz a látogató üzenet címre, a rendszer nem ad hozzá semmit.</translation>
+      <translation>Csak pozitív késleltetéseket használ a rendszer. Ha egy látogatói üzenetre nincs érvényes válasz, akkor semmit nem ad hozzá ahhoz</translation>
     </message>
     <message>
       <source>The first part of pending state is ignored: replies must happen after (pending time + wait time).</source>
-      <translation>A függőben lévő állapot első részét figyelmen kívül hagyjuk: a válaszoknak a (függőben lévő idő + várakozás idő) után kell megtörténniük.</translation>
+      <translation>A függőben lévő állapot első felét figyelmen kívül hagyja a rendszer: a válaszoknak a (függőben lévő idő + várakozási idő) letelte után kell megérkezniük</translation>
     </message>
     <message>
       <source>If visitor message was before that start point, calculation starts from (pending time + wait time), not from visitor message time.</source>
-      <translation>Ha a látogató üzenet  a kezdőpont előtt volt, a számítás a (függőben lévő idő + várakozás idő), nem pedig a látogató üzenet idő .</translation>
+      <translation>Ha a látogatói üzenet az adott kezdőpont előtt érkezik, a számítás a (függőben lévő idő + várakozási idő) alapján történik, nem pedig a látogatói üzenet időpontja alapján</translation>
     </message>
     <message>
       <source>Included messages for response timing: visitor messages and normal operator messages.</source>
-      <translation>A válaszidőzítéshez bevont üzenetek: látogató üzenetek és normál Operátor üzenetek .</translation>
+      <translation>A válaszidőbe beleszámító üzenetek: a látogatói üzenetek és a hagyományos operátori üzenetek</translation>
     </message>
     <message>
       <source>Excluded from response timing: plain system messages that are not supported actions, meta actions (assign/transfer/change owner/change department/accept), and bot messages.</source>
-      <translation>A válasz időzítéséből kizártak: egyszerű (szöveg) rendszer üzenetek, amelyek nem támogatott műveletek, meta műveletek ((hozzá)rendel(ve)/átadás/Váltás owner/Váltás részleg /accept), és bot üzenetek .</translation>
+      <translation>A válaszidőből kihagyva: az olyan egyszerű rendszerüzenetek, mint a nem támogatott műveletek, a metaműveletek (hozzárendelés/átadás/tulajdonos módosítása/részleg módosítása/elfogadás), valamint a bot-üzenetek</translation>
     </message>
     <message>
       <source>If participant has no valid response times, their AART stays 0.</source>
-      <translation>Ha a résztvevőnek nincs érvényes válaszideje, az AART értéke 0 marad.</translation>
+      <translation>Ha egy résztvevőnek nincs érvényes válaszideje, az ÁÜV értéke 0 marad</translation>
     </message>
     <message>
       <source>Measures the total duration of the chat from start to close across the full message timeline, regardless of ownership. It includes user, agent, and bot messages and begins counting when the chat starts</source>
-      <translation>A Beszélgetés teljes időtartamát méri a kezdettől a lezárásig a üzenet teljes idővonala alatt, függetlenül a tulajdonviszonyoktól. Tartalmazza a felhasználót, a ügynök és a bot üzenetek                  Beszélgetés </translation>
+      <translation>A beszélgetés teljes időtartamát méri a kezdéstől a befejezéséig az üzenetek teljes idővonalán, függetlenül attól, hogy ki írta az üzenetet. Ez magában foglalja a felhasználók, az ügyintézők és a botok üzeneteit is – a számítás a beszélgetés kezdetével indul</translation>
     </message>
     <message>
       <source>Abbreviations used here: FRT = First Response Time, AART = Average Agent Response Time, MART = Maximum Agent Response Time.</source>
-      <translation>Itt használt rövidítések: FRT = First Response idő, AART = Average ügynök Response idő, MART = maximum ügynök Response idő.</translation>
+      <translation>Az itt használt rövidítések: EV = Első Válaszidő, ÁÜV = Átlagos Ügyintézői Válaszidő, MÜV = Maximális Ügyintézői Válaszidő</translation>
     </message>
     <message>
       <source>Chat duration start form chat start event and till last operator/bot/visitor message.</source>
-      <translation>Beszélgetés időtartam kezdődik a Beszélgetés kezdő eseménytől és az utolsóig Operátor/bot/látogató üzenet .</translation>
+      <translation>A beszélgetés időtartama a beszélgetéskezdő eseménytől az utolsó operátori/bot-/látogatói üzenetig tart</translation>
     </message>
     <message>
       <source>Chat duration is calculated as a sum of time gaps between consecutive kept messages in chat timeline order.</source>
-      <translation>Beszélgetés az időtartamot az egymást követő, Beszélgetés idősor szerinti sorrendben megtartott üzenetek idő közötti hézagok összegeként számítják ki.</translation>
+      <translation>A beszélgetés időtartamát a beszélgetési idővonalon egymást követő üzenetek közötti időtartamok (szünetek) összegeként számítja ki a rendszer</translation>
     </message>
     <message>
       <source>The first kept message only sets the starting point. Counting begins from the next message, where each next gap is evaluated.</source>
-      <translation>Az első megtartott üzenet csak a kiindulópontot határozza meg. A számlálás a következő üzenet-től kezdődik, ahol minden következő rés kiértékelésre kerül.</translation>
+      <translation>Az első megőrzött üzenet csupán a kezdőpontot adja meg. A számítás a következő üzenettől kezdődik, amelytől kezdve minden egyes köztes időtartamot (szünetet) kiértékel a rendszer</translation>
     </message>
     <message>
       <source>A gap is added only if it is greater than 0 and smaller than the timeout for the current message author. If it is too large, that gap is skipped.</source>
-      <translation>A rés csak akkor kerül hozzáadásra, ha nagyobb, mint 0 és kisebb, mint a időtúllépés (lejárati idő – eddig aktív értelemben) az aktuális üzenet szerző számára. Ha túl nagy, a rés kihagyásra kerül.</translation>
+      <translation>Csak akkor ad hozzá egy köztes időtartamot (szünetet) a rendszer, ha annak értéke nagyobb 0-nál, és kisebb az aktuális üzenet szerzőjéhez tartozó lejárati idővel. Ha túl nagy, akkor az adott köztes időtartamot kihagyja a rendszer</translation>
     </message>
     <message>
       <source>System messages (user_id = -1) are skipped, except supported meta actions (accept, transfer, owner/department change, assign), which are converted to operator events and kept in timeline.</source>
-      <translation>A rendszer üzenetek (user_id = -1) kihagyásra kerül, kivéve a támogatott meta műveleteket (accept, átadás, owner/részleg Váltás , (hozzá)rendel(ve)), amelyek Operátor eseményekké alakulnak át és az idővonalban maradnak.</translation>
+      <translation>A rendszerüzeneteket (user_id = -1) kihagyja a rendszer, kivéve azokat a támogatott metaműveleteket (elfogadás, átadás, tulajdonos/részleg módosítása, hozzárendelés), amelyek operátori eseményekké lettek alakítva, és megőrződtek az idővonalon</translation>
     </message>
     <message>
       <source>Consecutive visitor messages are evaluated as normal consecutive timeline gaps: each visitor-to-visitor or visitor-to-next-kept-message gap is checked against timeout and added only if it is below limit.</source>
-      <translation>Az egymás utáni látogató üzenetek értékelésekor az egymás utáni idővonalbeli hézagokat normál módon értékeljük: minden egyes látogató-to-látogató vagy látogató-to-következő megtartott-üzenet hézagot ellenőrizzük a időtúllépés (lejárati idő – eddig aktív értelemben) ellenében, és csak akkor adjuk hozzá, ha az a határérték alatt van.</translation>
+      <translation>Az egymást követő látogatói üzeneteket úgy kezeli a rendszer, mint a szokásos egymást követő idővonalbeli szüneteket: minden, látogató és látogató, vagy látogató és következő megőrzött üzenet közötti szünetet összehasonlít a lejárati idővel, és csak akkor adja hozzá a kiértékeléshez, ha a szünet a határérték alatt van</translation>
     </message>
     <message>
       <source>For response metrics in the same calculation flow (FRT/AART/MART), consecutive visitor messages do not reset pending visitor start marker. That marker is replaced only after a valid operator reply closes current pending window.</source>
-      <translation>Az azonos számítási folyamattal (FRT/AART/MART) rendelkező válaszmetrikák esetében az egymást követő látogató üzenetek  nem visszaállítás függőben lévő látogató kezdőjelző. Ez a jelölő csak azután kerül lecserélésre, hogy egy érvényes Operátor válasz lezárja az aktuális függőben lévő ablakot.</translation>
+      <translation>Az ugyanazon számítási folyamaton belüli válaszmérési adatok (EV/ÁÜV/MÜV) esetében az egymást követő látogatói üzenetek nem állítják vissza a függő látogatói kezdésjelölőt. Ezt a jelölőt csak akkor cseréli ki a rendszer, ha egy érvényes operátori válasz lezárja az aktuális függőben lévő ablakot</translation>
     </message>
     <message>
       <source>Acceptance or transfer meta events do not reset total chat duration; they are just timeline events. Duration continues from previous kept message using the same gap rule.</source>
-      <translation>Az elfogadás vagy a átadás metaesemények nem visszaállítás a Beszélgetés teljes időtartama; ezek csak idővonalbeli események. Az időtartam az előző megtartott üzenet időtartamból folytatódik, ugyanazt a hézagszabályt alkalmazva.</translation>
+      <translation>Az elfogadás vagy átadás metaeseményei nem állítják vissza a beszélgetés teljes időtartamát; ezek csupán idővonalbeli események. Az időtartam az előző megőrzött üzenettől folytatódik, ugyanazokat az köztesidőtartam-szabályokat alkalmazva</translation>
     </message>
     <message>
       <source>Bot/auto-responder messages are not used as agent owners, but in total chat duration timeline they still follow the same gap-and-timeout rule if they are present as kept messages.</source>
-      <translation>bot/automatikus válaszok üzenetek nem használnak ügynök tulajdonosként, de a teljes Beszélgetés időtartam idővonalban még mindig ugyanazt a hézag- ésidőtúllépés (lejárati idő – eddig aktív értelemben) szabályt követik, ha jelen vannak, mint megtartott üzenetek.</translation>
+      <translation>A botok és az automatikus válaszüzenetek nem számítanak ügyintézői tulajdonosoknak, de a beszélgetés teljes idővonalára vonatkozóan ugyanazokat a szünet- és időtúllépési szabályokat követik, amennyiben az üzenetek megőrzött üzenetekként értelmezhetőek</translation>
     </message>
     <message>
       <source>Scenario: visitor writes after first acceptance. The gap from that visitor message to the next kept message is added only if it is below timeout.</source>
-      <translation>Forgatókönyv: látogató ír az első elfogadás után. Az adott látogató üzenet és a következő üzenet közötti különbség csak akkor adódik hozzá, ha az a időtúllépés (lejárati idő – eddig aktív értelemben) alatt van.</translation>
+      <translation>Eset: egy látogató az első elfogadás után üzenetet ír. A látogató üzenete és a következő megőrzött üzenet közötti időtartamot csak akkor számítja bele a rendszer, ha az a várakozási időn (időtúllépésen) belül van</translation>
     </message>
     <message>
       <source>Scenario: chat is transferred and accepted by another operator. Duration is not reset; it continues on the same message timeline with the same timeout checks.</source>
-      <translation>Forgatókönyv: Beszélgetés a átirányítva és elfogadta -nként (felhasználónként) egy másik Operátor. Az időtartam nem visszaállítás; ugyanabban a üzenet idősávban folytatódik, ugyanazokkal a időtúllépés (lejárati idő – eddig aktív értelemben) ellenőrzésekkel.</translation>
+      <translation>Eset: egy beszélgetést átvesz és elfogad egy másik operátor. Az időtartam nem áll vissza; a beszélgetés ugyanazon az üzenetfolyamon folytatódik, ugyanazokkal az időtúllépési ellenőrzésekkel</translation>
     </message>
     <message>
       <source>minutes — the maximum gap allowed after a visitor message. If the operator replies later than this, that wait time is skipped.</source>
-      <translation>percek - a maximum megengedett különbség a látogató üzenet  után. Ha a Operátor ennél később válaszol, a idő várakozás kihagyásra kerül.</translation>
+      <translation>perc – egy látogatói üzenet után megengedett leghosszabb várakozási idő. Ha az operátor ennél később válaszol, akkor ezt a köztes időtartamot kihagyja a rendszer</translation>
     </message>
     <message>
       <source>minutes — the maximum gap allowed when the current message is treated as operator side (non-visitor).</source>
-      <translation>perc - a maximum megengedett különbség, amikor az aktuális üzenet oldalt Operátor oldalnak tekintik (nemlátogató).</translation>
+      <translation>perc – a megengedett legnagyobb várakozási idő, ha az aktuális üzenet operátoroldali (nem látogatói) üzenetként kezelendő</translation>
     </message>
     <message>
       <source>Measures the average chat duration from the accept action event through the full message timeline. It does NOT include bot messages, and it begins counting when the agent accepts the chat.</source>
-      <translation>A Beszélgetés átlagos időtartamát méri a üzenet teljes idővonalon keresztül az akció esemény elfogadásától a oldalon. NEM befoglalás(a vminek) bot üzenetek   , és a számlálás akkor kezdődik, amikor a ügynök elfogadja a Beszélgetés.</translation>
+      <translation>A beszélgetések átlagos időtartamának mérése az elfogadási eseménytől kezdve az üzenetek teljes idővonalán át. A botok üzeneteit NEM veszi figyelembe a rendszer, valamint a számítás akkor kezdődik, amikor az ügyintéző elfogadja a beszélgetést</translation>
     </message>
     <message>
       <source>An agent becomes active owner when a supported operator event/message appears (accept, transfer, owner/department change, assign, or operator message).</source>
-      <translation>Egy ügynök akkor válik aktív tulajdonossá, ha egy támogatott Operátor esemény/üzenet megjelenik (accept, átadás, owner/részleg Váltás , (hozzá)rendel(ve), vagy Operátor üzenet ).</translation>
+      <translation>Egy ügyintéző akkor válik aktív tulajdonossá, ha egy támogatott operátori esemény vagy üzenet jelenik meg az üzenetfolyamban (elfogadás, átadás, tulajdonos-/részlegváltás, hozzárendelés vagy operátori üzenet)</translation>
     </message>
     <message>
       <source>For response metrics tied to participants (FRT/AART/MART), consecutive visitor messages also do not reset pending visitor start marker. Start remains first pending point until valid operator reply.</source>
-      <translation>A résztvevőkhöz kötött válaszmetrikák (FRT/AART/MART) esetében az egymást követő látogató üzenetek  szintén nem visszaállítás függő látogató start marker. A start az első függő pont marad, amíg érvényes Operátor válasz nem érkezik.</translation>
+      <translation>A résztvevőkhöz kapcsolódó válaszmérési adatok (EV/ÁÜV/MÜV) esetében az egymást követő látogatói üzenetek szintén nem állítják vissza a függő látogatói kezdésjelölőt. A kezdésjelölő az első függő pont marad mindaddig, amíg érvényes válasz nem érkezik egy operátortól</translation>
     </message>
     <message>
       <source>Accept/transfer/owner-change meta events can switch owner context, but they do not count as visitor replies. They only affect which human owner receives later eligible gaps.</source>
-      <translation>Az Accept/átadás/owner-Váltás metaesemények tulajdonosi kontextust válthatnak, de nem számítanak látogató válasznak. Ezek csak azt befolyásolják, hogy melyik emberi tulajdonos kapja meg a későbbi jogosult réseket.</translation>
+      <translation>Az elfogadás, átadás és tulajdonosváltás metaesemények ugyan megváltoztathatják a tulajdonosi kontextust, de nem minősülnek látogatói válaszoknak. Ezek kizárólag azt befolyásolják, hogy mely emberi tulajdonoshoz tartozzanak a későbbi, érvényes köztes időtartamok</translation>
     </message>
     <message>
       <source>Bot/auto-responder side is not tracked as a human participant owner, so it does not create a separate human agent duration entry.</source>
-      <translation>bot/automatikus válaszok oldal nem követhető nyomon emberi résztvevő tulajdonosként, így nem hoz létre külön emberi ügynök időtartam bejegyzést.</translation>
+      <translation>A botok/automatikus válaszok nem számítanak emberi résztvevő tulajdonosoknak, ezért nem nem keletkezik belőlük külön időtartam-bejegyzés az emberi ügyintézőkhöz</translation>
     </message>
     <message>
       <source>Scenario: visitor writes after first acceptance. That visitor-to-next-message gap is added to accepted agent only if it is below timeout.</source>
-      <translation>Forgatókönyv: látogató ír az első elfogadás után. Az a látogató-to-következő-üzenet rés csak akkor adódik hozzá az elfogadott ügynök -hoz, ha az a időtúllépés (lejárati idő – eddig aktív értelemben) alatt van.</translation>
+      <translation>Eset: egy látogató az első elfogadás után ír. A látogató és a következő üzenet közötti időtartam csak akkor adódik hozzá az elfogadó ügyintézőhöz, ha az nem haladja meg a várakozási időt (időtúllépést)</translation>
     </message>
     <message>
       <source>Scenario: chat is transferred and accepted by another operator. After acceptance, visitor gaps are added to new owner; previous owner remains frozen.</source>
-      <translation>Forgatókönyv: Beszélgetés a átirányítva és elfogadta -nként (felhasználónként) egy másik Operátor. Az elfogadás után a látogató hiányosságok az új tulajdonoshoz kerülnek; az előző tulajdonos befagyasztva marad.</translation>
+      <translation>Eset: egy beszélgetést átadnak, és egy másik operátor elfogadja azt. Az elfogadás után a látogató köztes időtartamai (szünetei) az új operátornál kerülnek számításba; az előző operátor szünetei ugyanakkor változatlanul megmaradnak</translation>
     </message>
     <message>
       <source>minutes — max gap allowed after a visitor message. If the agent replied later than this, that waiting time is ignored.</source>
-      <translation>perc - a látogató üzenet után megengedett maximális időköz  . Ha a ügynök ennél később válaszol, akkor a várakozó idő figyelmen kívül marad.</translation>
+      <translation>perc – egy látogatói üzenet után megengedett leghosszabb várakozási idő. Ha az ügyintéző ennél később válaszol, akkor ezt a köztes időtartamot figyelmen kívül hagyja a rendszer</translation>
     </message>
     <message>
       <source>minutes — max gap allowed after an agent message. If the visitor replied later than this, that waiting time is ignored.</source>
-      <translation>perc - a megengedett legnagyobb távolság a ügynök üzenet . Ha a látogató ennél később válaszol, akkor a várakozó idő figyelmen kívül marad.</translation>
+      <translation>perc – egy ügyintéző üzenete után megengedett leghosszabb várakozási idő. Ha a látogató ennél később válaszol, akkor ezt a köztes időtartamot figyelmen kívül hagyja a rendszer</translation>
     </message>
     <message>
       <source>FRT is created when there is a pending visitor-side start point and then a real operator message arrives (operator user_id &gt; 0, and message is not a meta/system action).</source>
-      <translation>FRT akkor jön létre, ha van egy függőben lévő látogató-oldali startpont, majd megérkezik egy valódi Operátor üzenet (Operátor user_id &gt; 0, és a üzenet nem meta/rendszer akció).</translation>
+      <translation>EV akkor jön létre, ha van egy függőben lévő, látogatói kezdőpont, és ezután érkezik egy valódi operátorüzenet (az operátor user_id értéke &gt; 0, és az üzenet nem meta- vagy rendszerművelet)</translation>
     </message>
     <message>
       <source>Start point is stored in two cases: (1) first visitor message after previous FRT was closed, or (2) accept_action meta event.</source>
-      <translation>A kezdőpont két esetben kerül tárolásra: (1) első látogató üzenet  az előző FRT lezárása után, vagy (2) accept_action meta esemény.</translation>
+      <translation>A kezdőpontot két esetben tárolja el a rendszer: (1) az előző EV lezárását követő első látogatói üzenet, vagy (2) accept_action metaesemény esetén</translation>
     </message>
     <message>
       <source>Consecutive visitor messages do not move the start point forward. Internally, visitor start is set only when there is no active pending visitor start; after that, extra visitor messages are ignored for start-point update until a valid operator reply happens.</source>
-      <translation>Az egymást követő látogató üzenetek  nem mozdítja előre a kezdőpontot. Belsőleg a látogató start csak akkor kerül beállításra, ha nincs aktív várakozó látogató start; ezt követően a látogató üzenetek extra a startpont frissítésénél figyelmen kívül hagyásra kerül, amíg érvényes Operátor válasz nem érkezik.</translation>
+      <translation>Az egymást követő látogatói üzenetek nem mozgatják előre a kezdőpontot. Technikailag látogatói kezdőpontot csak akkor állít be a rendszer, ha nincs aktív, függőben lévő látogatói kezdőpont; ezt követően a kezdőpont frissítése kapcsán a további látogatói üzeneteket figyelmen kívül hagyja a rendszer, amíg nem érkezik érvényes operátori válasz</translation>
     </message>
     <message>
       <source>When operator reply arrives, FRT is calculated as reply_time minus max(start_point_time, pending_start_time), where pending_start_time = pnd_time + wait_time. This removes queue waiting before acceptance.</source>
-      <translation>Amikor a Operátor válasz megérkezik, az FRT-t úgy számítják ki, hogy reply_time mínusz max(start_point_time, pending_start_time), ahol pending_start_time = pnd_time + wait_time. Ez megszünteti a sorban várakozást az elfogadás előtt.</translation>
+      <translation>Amikor operátori válasz érkezik, az EV-t a reply_time (válaszidő) és a max(start_point_time [kezdőpont_ideje], pending_start_time [függő_kezdési_idő]) különbségeként számolja ki a rendszer, ahol pending_start_time = pnd_time (függő_idő) + wait_time (várakozási_idő). Ez kiküszöböli az elfogadás előtti sorban állási időt</translation>
     </message>
     <message>
       <source>Meta actions (accept, transfer, owner change, department change, assign) do not close FRT window by themselves. They are not counted as operator reply messages.</source>
-      <translation>A meta-akciók (accept, átadás, owner Váltás, részleg Váltás , (hozzá)rendel(ve)) nem zárják be a -nként (felhasználónként) FRT ablakot. Ezek nem számítanak Operátor válasznak üzenetek.</translation>
+      <translation>A metaműveletek (elfogadás, átadás, tulajdonosváltás, részlegváltás, hozzárendelés) önmagukban nem zárják le az EV időablakát. Ezek nem számítanak operátori válaszüzeneteknek</translation>
     </message>
     <message>
       <source>Bot/auto-responder messages do not create FRT reply events because reply event requires operator user_id &gt; 0.</source>
-      <translation>bot/automatikus válaszok üzenetek nem hoz létre FRT válaszeseményeket, mert a válaszeseményhez Operátor user_id &gt; 0 kell.</translation>
+      <translation>A botok és az automatikus válaszok nem hoznak létre EV-válaszeseményeket, mivel a válaszeseményekhez az operátor user_id értékének 0-nál nagyobbnak kell lennie</translation>
     </message>
     <message>
       <source>For participant stats, each operator has their own first FRT value. For chat-level FRT, system stores the first FRT from the full timeline (response_times_total[0]).</source>
-      <translation>A résztvevői statisztikák esetében minden egyes Operátor saját első FRT-értékkel rendelkezik. A Beszélgetés-szintű FRT esetében a rendszer a teljes idővonal első FRT értékét tárolja (response_times_total[0]).</translation>
+      <translation>A résztvevői statisztikák esetében minden operátor rendelkezik saját első EV-értékkel. Beszélgetésszintű EV esetében a rendszer a teljes idővonal első EV-értékét tárolja el (response_times_total[0])</translation>
     </message>
     <message>
       <source>MART (Maximum Agent Response Time) describes the maximum time the agent takes to reply a message to the visitor.</source>
-      <translation>MART (maximum ügynök  válasz idő) leírja a maximum idő a ügynök veszi, hogy válaszoljon egy üzenet a látogató.</translation>
+      <translation>Az MÜV (Maximális Ügyintézői Válaszidő) azt az időtartamot jelenti, amely alatt egy ügyintéző legkésőbb válaszol egy látogató üzenetére</translation>
     </message>
     <message>
       <source>For each participant, we calculate all valid reply times. MART is not an average, it is the single highest response time from that participant.</source>
-      <translation>Minden egyes résztvevő esetében kiszámítjuk az összes érvényes válaszadási időt. A MART nem egy átlag, hanem az adott résztvevőtől származó egyetlen legmagasabb válasz idő.</translation>
+      <translation>Minden résztvevő esetében kiszámítjuk az összes érvényes válaszidőt. Az MÜV nem egy átlagérték, hanem az adott résztvevő legmagasabb válaszadási ideje</translation>
     </message>
     <message>
       <source>Formula (per participant): MART = max(that participant response times).</source>
-      <translation>Képlet (résztvevőnként): MART = max(a résztvevő válaszideje).</translation>
+      <translation>Képlet (résztvevőnként): MÜV = max(a résztvevő válaszideje)</translation>
     </message>
     <message>
       <source>If participant has no valid response times, their MART stays 0.</source>
-      <translation>Ha a résztvevőnek nincs érvényes válaszideje, a MART értéke 0 marad.</translation>
+      <translation>Ha a résztvevőnek nincs érvényes válaszideje, az MÜV értéke 0 marad</translation>
     </message>
     <message>
       <source>You can have custom JS execution on click event. In combination with</source>
@@ -21815,7 +21815,7 @@
     </message>
     <message>
       <source>When an email has been accepted by an agent and for X time and has no response.</source>
-      <translation>Amikor egy e-mailt egy ügynök elfogad, de a kiválasztott időn belül nem kap választ</translation>
+      <translation>Ha egy ügyintéző elfogad egy e-mailt, de a megadott időn belül nem válaszol rá</translation>
     </message>
     <message>
       <source>Settings updated</source>
@@ -22210,7 +22210,7 @@
     </message>
     <message>
       <source>If there can be more than one element define root element location</source>
-      <translation>Ha egynél több elem lehet, határozza meg a gyökérelem helyét</translation>
+      <translation>Ha egynél több elem is lehet, akkor határozd meg a gyökérelem helyét</translation>
     </message>
     <message>
       <source>Image body attributes. URL or base64 encoded content</source>
@@ -22286,7 +22286,7 @@
     </message>
     <message>
       <source>If there can be more than one element define root element locationn</source>
-      <translation>Ha egynél több elem lehet, határozza meg a gyökérelem helyétn</translation>
+      <translation>Ha egynél több elem is lehet, akkor határozd meg a gyökérelem helyét</translation>
     </message>
     <message>
       <source>Message ID location</source>
@@ -26187,7 +26187,7 @@
     </message>
     <message>
       <source>Maximum agent response time</source>
-      <translation>Leghosszabb ügynöki válaszidő</translation>
+      <translation>Leghosszabb ügyintézői válaszidő</translation>
     </message>
     <message>
       <source>Maximum bot response time</source>
@@ -26195,7 +26195,7 @@
     </message>
     <message>
       <source>Average agent response time</source>
-      <translation>Átlagos ügynöki válaszidő</translation>
+      <translation>Átlagos ügyintézői válaszidő</translation>
     </message>
     <message>
       <source>Average bot response time</source>
@@ -26203,7 +26203,7 @@
     </message>
     <message>
       <source>First agent response time</source>
-      <translation>Első ügynöki válaszidő</translation>
+      <translation>Első ügyintézői válaszidő</translation>
     </message>
     <message>
       <source>First bot response time</source>
@@ -26227,7 +26227,7 @@
     </message>
     <message>
       <source>Agent</source>
-      <translation>Ügynök</translation>
+      <translation>Ügyintéző</translation>
     </message>
     <message>
       <source>Chats</source>
@@ -26737,7 +26737,7 @@
     <name>chat/transferuser</name>
     <message>
       <source>Visitor requested to speak with a human agent by clicking Switch To Human button</source>
-      <translation>A látogató emberi ügynökkel szeretne beszélni a „Váltás emberi segítségre” gombra kattintva</translation>
+      <translation>A látogató emberi ügyintézővel szeretne beszélni a „Váltás emberi segítségre” gombra kattintva</translation>
     </message>
     <message>
       <source>has changed department to</source>
@@ -27016,7 +27016,7 @@
     <name>chat/backtochat</name>
     <message>
       <source>Visitor completed survey!</source>
-      <translation>látogató elkészült felmérés!</translation>
+      <translation>Látogatói felmérés kitöltve</translation>
     </message>
     <message>
       <source>Visitor has been redirected back to chat!</source>
@@ -27067,7 +27067,7 @@
     <name>abstract/contentchunk</name>
     <message>
       <source>Identifier</source>
-      <translation>azonosító</translation>
+      <translation>Azonosító</translation>
     </message>
     <message>
       <source>Name</source>
@@ -27075,15 +27075,15 @@
     </message>
     <message>
       <source>Content, checked against JSON format</source>
-      <translation>Tartalom, JSON formátummal összevetve</translation>
+      <translation>Tartalom, JSON-formátumként ellenőrizve</translation>
     </message>
     <message>
       <source>In-Active. Do not use in replaceable variables</source>
-      <translation>In-aktív. Ne használja cserélhető változókban</translation>
+      <translation>Inaktív. Ne használja behelyettesíthető változókban</translation>
     </message>
     <message>
       <source>Content Chunk</source>
-      <translation>Content Chunk</translation>
+      <translation>Tartalomblokk</translation>
     </message>
   </context>
 </TS>
